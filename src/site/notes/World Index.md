@@ -12,7 +12,7 @@
 | [[campaign/players/Sin\|Sin]]                           | Joe       | Devil - Phistophilus  | Warlock - The Fiend            | Lawful Evil  |
 | [[campaign/players/Dags\|Dags]]                         | Justin    | Mark of Finding Human | Artificer                      | \-           |
 | [[campaign/players/Adira\|Adira]]                       | Kayla     | Human                 | Barbarian - Path of Wild Magic | \-           |
-| [[campaign/players/Faliq\|Faliq]]                       | Maryann   | Elf - elf             | Fighter - Arcane Archer        | \-           |
+| [[campaign/players/Faliq\|Faliq]]                       | Maryann   | Elf                   | Fighter - Arcane Archer        | \-           |
 | [[campaign/players/Ulric Moonshadow\|Ulric Moonshadow]] | Michael   | Elf                   | Rogue - Soulknife              | \-           |
 | [[campaign/players/Manon\|Manon]]                       | Shay      | Elf                   | Ranger - Hunter                | \-           |
 
