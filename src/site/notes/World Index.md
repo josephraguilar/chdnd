@@ -7,12 +7,12 @@
 ## Player Characters
 | Character                                                  | Played By | Race                  | Class                          | Alignment    |
 | ---------------------------------------------------------- | --------- | --------------------- | ------------------------------ | ------------ |
-| [[campaign/players/Faliq\|Faliq]]                       | \-        | Elf - elf             | Fighter - Arcane Archer        | \-           |
 | [[campaign/players/Flynn\|Flynn]]                       | Becca     | <ul><li>Elf</li></ul> | Fighter - Echo Knight          | \-           |
 | [[campaign/players/Sim\|Sim]]                           | Joe       | Fairy                 | Cleric - Trickery Domain       | Neutral Good |
 | [[campaign/players/Sin\|Sin]]                           | Joe       | Devil - Phistophilus  | Warlock - The Fiend            | Lawful Evil  |
 | [[campaign/players/Dags\|Dags]]                         | Justin    | Mark of Finding Human | Artificer                      | \-           |
 | [[campaign/players/Adira\|Adira]]                       | Kayla     | Human                 | Barbarian - Path of Wild Magic | \-           |
+| [[campaign/players/Faliq\|Faliq]]                       | Maryann   | Elf - elf             | Fighter - Arcane Archer        | \-           |
 | [[campaign/players/Ulric Moonshadow\|Ulric Moonshadow]] | Michael   | Elf                   | Rogue - Soulknife              | \-           |
 | [[campaign/players/Manon\|Manon]]                       | Shay      | Elf                   | Ranger - Hunter                | \-           |
 
