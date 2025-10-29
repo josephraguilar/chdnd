@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"],"created":"2025-10-28T08:13:58.026-07:00","updated":"2025-10-28T21:09:07.832-07:00"}
 ---
 
 # The World of # Bydmorathir
