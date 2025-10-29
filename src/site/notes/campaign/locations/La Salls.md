@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/la-salls/","tags":["location"],"created":"2025-10-28T21:58:42.819-07:00","updated":"2025-10-28T22:54:58.526-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/la-salls/","tags":["location"],"created":"2025-10-28T21:58:42.819-07:00","updated":"2025-10-28T22:55:05.793-07:00"}
 ---
 
 # # [[campaign/locations/La Salls\|La Salls]]

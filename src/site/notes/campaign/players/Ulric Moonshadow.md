@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/ulric-moonshadow/","tags":["character","player"],"created":"2025-10-28T18:37:37.814-07:00","updated":"2025-10-28T22:52:56.877-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/ulric-moonshadow/","tags":["character","player"],"created":"2025-10-28T18:37:37.814-07:00","updated":"2025-10-28T22:53:05.212-07:00"}
 ---
 
 

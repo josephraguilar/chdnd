@@ -1,18 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"],"created":"2025-10-28T08:13:58.026-07:00","updated":"2025-10-28T21:09:07.832-07:00"}
+{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"],"created":"2025-10-28T08:13:58.026-07:00","updated":"2025-10-28T21:09:17.208-07:00"}
 ---
 
 # The World of # Bydmorathir
 
 ## Player Characters
-| Character                                                  | Played By | Race                  | Class                          | Alignment |
-| ---------------------------------------------------------- | --------- | --------------------- | ------------------------------ | --------- |
-| [[campaign/players/Faliq\|Faliq]]                       | \-        | Elf - elf             | Fighter - Arcane Archer        | \-        |
-| [[campaign/players/Flynn\|Flynn]]                       | Becca     | <ul><li>Elf</li></ul> | Fighter - Echo Knight          | \-        |
-| [[campaign/players/Dags\|Dags]]                         | Justin    | Mark of Finding Human | Artificer                      | \-        |
-| [[campaign/players/Adira\|Adira]]                       | Kayla     | Human                 | Barbarian - Path of Wild Magic | \-        |
-| [[campaign/players/Ulric Moonshadow\|Ulric Moonshadow]] | Michael   | Elf                   | Rogue - Soulknife              | \-        |
-| [[campaign/players/Manon\|Manon]]                       | Shay      | Elf                   | Ranger - Hunter                | \-        |
+| Character                                                  | Played By | Race                  | Class                          | Alignment    |
+| ---------------------------------------------------------- | --------- | --------------------- | ------------------------------ | ------------ |
+| [[campaign/players/Faliq\|Faliq]]                       | \-        | Elf - elf             | Fighter - Arcane Archer        | \-           |
+| [[campaign/players/Flynn\|Flynn]]                       | Becca     | <ul><li>Elf</li></ul> | Fighter - Echo Knight          | \-           |
+| [[campaign/players/Sim\|Sim]]                           | Joe       | Fairy                 | Cleric - Trickery Domain       | Neutral Good |
+| [[campaign/players/Sin\|Sin]]                           | Joe       | Devil - Phistophilus  | Warlock - The Fiend            | Lawful Evil  |
+| [[campaign/players/Dags\|Dags]]                         | Justin    | Mark of Finding Human | Artificer                      | \-           |
+| [[campaign/players/Adira\|Adira]]                       | Kayla     | Human                 | Barbarian - Path of Wild Magic | \-           |
+| [[campaign/players/Ulric Moonshadow\|Ulric Moonshadow]] | Michael   | Elf                   | Rogue - Soulknife              | \-           |
+| [[campaign/players/Manon\|Manon]]                       | Shay      | Elf                   | Ranger - Hunter                | \-           |
 
 { .block-language-dataview}
 

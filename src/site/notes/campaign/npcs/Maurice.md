@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/maurice/","tags":["character","npc"],"created":"2025-10-28T21:56:13.377-07:00","updated":"2025-10-28T22:52:02.418-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/maurice/","tags":["character","npc"],"created":"2025-10-28T21:56:13.377-07:00","updated":"2025-10-28T22:52:10.187-07:00"}
 ---
 
 
