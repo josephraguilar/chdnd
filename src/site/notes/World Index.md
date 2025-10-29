@@ -8,7 +8,6 @@
 | Character                                                  | Played By | Race                  | Class                          | Alignment |
 | ---------------------------------------------------------- | --------- | --------------------- | ------------------------------ | --------- |
 | [[campaign/players/Faliq\|Faliq]]                       | \-        | Elf - elf             | Fighter - Arcane Archer        | \-        |
-| [[campaign/players/Untitled\|Untitled]]                 | \-        | \-                    | \-                             | \-        |
 | [[campaign/players/Flynn\|Flynn]]                       | Becca     | <ul><li>Elf</li></ul> | Fighter - Echo Knight          | \-        |
 | [[campaign/players/Dags\|Dags]]                         | Justin    | Mark of Finding Human | Artificer                      | \-        |
 | [[campaign/players/Adira\|Adira]]                       | Kayla     | Human                 | Barbarian - Path of Wild Magic | \-        |
