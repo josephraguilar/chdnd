@@ -8,6 +8,7 @@
 | Character                                                  | Played By | Race                  | Class                          | Alignment    |
 | ---------------------------------------------------------- | --------- | --------------------- | ------------------------------ | ------------ |
 | [[campaign/players/Flynn\|Flynn]]                       | Becca     | <ul><li>Elf</li></ul> | Fighter - Echo Knight          | \-           |
+| [[campaign/players/Elowen\|Elowen]]                     | Becca     | Eladrin               | Wizard                         | \-           |
 | [[campaign/players/Sim\|Sim]]                           | Joe       | Fairy                 | Cleric - Trickery Domain       | Neutral Good |
 | [[campaign/players/Sin\|Sin]]                           | Joe       | Devil - Phistophilus  | Warlock - The Fiend            | Lawful Evil  |
 | [[campaign/players/Dags\|Dags]]                         | Justin    | Mark of Finding Human | Artificer                      | \-           |
