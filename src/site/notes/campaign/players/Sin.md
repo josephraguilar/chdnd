@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/sin/","tags":["character","player"],"created":"2025-10-29T12:50:43.179-07:00","updated":"2025-10-29T13:01:31.051-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/sin/","tags":["character","player"],"created":"2025-10-29T12:50:43.179-07:00","updated":"2025-11-04T08:34:02.699-08:00"}
 ---
 
 
@@ -16,14 +16,14 @@
 ---
 
 # [[campaign/players/Sin\|Sin]]
-A contract devil who's soul somehow got stuck in Sim's body
+A contract devil who's soul somehow got stuck in Sim's body. She can morph into many shapes and prefers an older version of Sim, with subdermal horns, batlike fairy wings, and pitch black eyes. 
 
 ---
 
 ## Personality
-**Traits:**  
-**Ideals:**  
-**Bonds:**  
+**Traits:**  Loves contracts and the details withing them
+**Ideals:**  Believes contracts are sacred and must not be broken.
+**Bonds:**  is a subordinate to [[campaign/npcs/Glasya\|Glasya]] and inhabits [[campaign/players/Sim\|Sim]]'s body. 
 **Flaws:**  
 
 ---
@@ -34,4 +34,4 @@ A contract devil who's soul somehow got stuck in Sim's body
 ---
 
 ## Notes
-*Backstory, secrets, motivations, or how they connect to the world.*
+Sin seems bothered by the fact that she can no longer grant wishes or powers in order to obtain peoples souls. 

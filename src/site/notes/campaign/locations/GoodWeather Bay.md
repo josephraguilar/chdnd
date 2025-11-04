@@ -15,6 +15,7 @@
 | Location                                                                     | Type   |
 | ---------------------------------------------------------------------------- | ------ |
 | [[campaign/locations/Dansk & Sons Shipwrights\|Dansk & Sons Shipwrights]] | 6_site |
+| [[campaign/locations/Whoropoly\|Whoropoly]]                               | 6_site |
 
 { .block-language-dataview}
 

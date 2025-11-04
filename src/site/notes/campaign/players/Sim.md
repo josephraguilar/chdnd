@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/sim/","tags":["character","player"],"created":"2025-10-29T12:33:16.224-07:00","updated":"2025-10-29T12:55:37.929-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/sim/","tags":["character","player"],"created":"2025-10-29T12:33:16.224-07:00","updated":"2025-11-04T08:33:20.112-08:00"}
 ---
 
 
@@ -17,7 +17,7 @@
 
 ---
 
-# [[campaign/players/Sin\|Sin]]
+# [[campaign/players/Sim\|Sim]]
 *Physical appearance, demeanor, quirks, and mannerisms.*
 
 ---

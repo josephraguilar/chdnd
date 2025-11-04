@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/flynn/","tags":["character","player"],"created":"2025-10-28T19:50:17.774-07:00","updated":"2025-10-29T15:46:15.588-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/flynn/","tags":["character","player"],"created":"2025-10-28T19:50:17.774-07:00","updated":"2025-11-04T08:37:52.421-08:00"}
 ---
 
 
@@ -8,17 +8,18 @@
 <li dir="auto"><strong>Race:</strong> Elf</li>
 <li dir="auto"><strong>Class:</strong> Fighter - Echo Knight</li>
 <li dir="auto"><strong>Level:</strong> 8</li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/GoodWeather Bay.md" data-href="campaign/locations/GoodWeather Bay.md" href="campaign/locations/GoodWeather Bay.md" class="internal-link" target="_blank" rel="noopener nofollow">GoodWeather Bay</a></li>
 </ul></span></p>
 
 ---
 
 # [[campaign/players/Flynn\|Flynn]]
-*Physical appearance, demeanor, quirks, and mannerisms.*
+A womanizer with a guitar. Flynn knows where all the brothels are, but isn't allowed into most of them. 
 
 ---
 
 ## Personality
-**Traits:**  
+**Traits:**  Womanizer
 **Ideals:**  
 **Bonds:**  
 **Flaws:**  
