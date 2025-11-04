@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/faliq/","tags":["character","player"],"created":"2025-10-28T18:41:36.542-07:00","updated":"2025-10-29T13:43:57.024-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/faliq/","tags":["character","player"],"created":"2025-10-28T18:41:36.542-07:00","updated":"2025-11-04T08:23:27.931-08:00"}
 ---
 
 
@@ -8,18 +8,19 @@
 <li dir="auto"><strong>Race:</strong> Elf</li>
 <li dir="auto"><strong>Class:</strong> Fighter - Arcane Archer</li>
 <li dir="auto"><strong>Level:</strong> 8</li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/GoodWeather Bay.md" data-href="campaign/locations/GoodWeather Bay.md" href="campaign/locations/GoodWeather Bay.md" class="internal-link" target="_blank" rel="noopener nofollow">GoodWeather Bay</a></li>
 </ul></span></p>
 
 ---
 
 # [[campaign/players/Faliq\|Faliq]]
-*Physical appearance, demeanor, quirks, and mannerisms.*
+Faliq loves bling. She likes to look impossibly wealthy and exudes confidence through flashy, over-the-top fashion — gold accents, sparkling fabrics, and ornate accessories. She presents herself as someone important, whether or not she actually is.
 
 ---
 
 ## Personality
-**Traits:**  hates kids
-**Ideals:**  
+**Traits:**  
+**Ideals:** Dislikes religion 
 **Bonds:**  
 **Flaws:**  
 
@@ -31,4 +32,4 @@
 ---
 
 ## Notes
-*Backstory, secrets, motivations, or how they connect to the world.*
+Faliq fled from her home before meetings with the party. 

@@ -18,6 +18,7 @@ Continent on the south east side of [[campaign/locations/Bydmorathir\|Bydmorathi
 | [[campaign/locations/Dry Rock Gulch\|Dry Rock Gulch]]         | \-                   |
 | [[campaign/locations/Riverbend\|Riverbend]]                   | \-                   |
 | [[campaign/locations/Smallhill Grove\|Smallhill Grove]]       | \-                   |
+| [[campaign/locations/Burning Spires\|Burning Spires]]         | 2_region/archipelago |
 | [[campaign/locations/Flattop Forrest\|Flattop Forrest]]       | 2_region/archipelago |
 | [[campaign/locations/Symud Desert\|Symud Desert]]             | 2_region/archipelago |
 | [[campaign/locations/Rocky Point\|Rocky Point]]               | 2_region/archipelago |
