@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/sin/","tags":["character","player"],"created":"2025-10-29T12:50:43.179-07:00","updated":"2025-11-04T08:34:02.699-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/sin/","tags":["character","player"],"created":"2025-10-29T12:50:43.179-07:00","updated":"2025-11-04T18:24:26.299-08:00"}
 ---
 
 

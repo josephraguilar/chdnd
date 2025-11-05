@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/minkas-contract/","created":"2025-10-28T21:53:46.553-07:00","updated":"2025-11-04T08:44:26.828-08:00"}
+{"dg-publish":true,"permalink":"/campaign/items/minkas-contract/","created":"2025-10-28T21:53:46.553-07:00","updated":"2025-11-04T08:44:35.364-08:00"}
 ---
 
 

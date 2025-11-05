@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/fey-wild/","tags":["location"],"created":"2025-10-29T12:49:08.967-07:00","updated":"2025-10-29T13:46:54.812-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/fey-wild/","tags":["location"],"created":"2025-10-29T12:49:08.967-07:00","updated":"2025-10-29T13:47:01.666-07:00"}
 ---
 
 # # [[campaign/locations/Fey Wild\|Fey Wild]]

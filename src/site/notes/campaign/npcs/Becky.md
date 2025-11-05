@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/becky/","tags":["character","npc"],"created":"2025-10-28T20:21:28.561-07:00","updated":"2025-10-29T13:08:10.371-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/becky/","tags":["character","npc"],"created":"2025-10-28T20:21:28.561-07:00","updated":"2025-10-29T13:08:20.538-07:00"}
 ---
 
 

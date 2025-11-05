@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/isis-shatterscale/","tags":["character","npc"],"created":"2025-10-29T11:31:06.479-07:00","updated":"2025-10-29T13:14:16.207-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/isis-shatterscale/","tags":["character","npc"],"created":"2025-10-29T11:31:06.479-07:00","updated":"2025-10-29T13:14:26.162-07:00"}
 ---
 
 # [[campaign/npcs/Isis Shatterscale\|Isis Shatterscale]]

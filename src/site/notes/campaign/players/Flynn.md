@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/flynn/","tags":["character","player"],"created":"2025-10-28T19:50:17.774-07:00","updated":"2025-11-04T08:37:52.421-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/flynn/","tags":["character","player"],"created":"2025-10-28T19:50:17.774-07:00","updated":"2025-11-04T08:38:00.419-08:00"}
 ---
 
 

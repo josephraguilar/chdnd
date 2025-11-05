@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/burning-spires/","tags":["location"],"created":"2025-10-29T12:27:02.886-07:00","updated":"2025-11-04T08:21:53.851-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/burning-spires/","tags":["location"],"created":"2025-10-29T12:27:02.886-07:00","updated":"2025-11-04T08:21:59.742-08:00"}
 ---
 
 # # [[campaign/locations/Burning Spires\|Burning Spires]]

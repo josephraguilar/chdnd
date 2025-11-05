@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/dry-rock-gulch/","tags":["location"],"created":"2025-10-29T13:30:13.305-07:00","updated":"2025-10-29T13:30:57.478-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/dry-rock-gulch/","tags":["location"],"created":"2025-10-29T13:30:13.305-07:00","updated":"2025-10-29T13:31:06.860-07:00"}
 ---
 
 # # [[campaign/locations/Dry Rock Gulch\|Dry Rock Gulch]]

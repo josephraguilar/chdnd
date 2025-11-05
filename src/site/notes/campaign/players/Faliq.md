@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/faliq/","tags":["character","player"],"created":"2025-10-28T18:41:36.542-07:00","updated":"2025-11-04T08:23:27.931-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/faliq/","tags":["character","player"],"created":"2025-10-28T18:41:36.542-07:00","updated":"2025-11-04T18:31:43.885-08:00"}
 ---
 
 
@@ -12,9 +12,10 @@
 </ul></span></p>
 
 ---
-
+![Faliq.png](/img/user/Faliq.png)
 # [[campaign/players/Faliq\|Faliq]]
 Faliq loves bling. She likes to look impossibly wealthy and exudes confidence through flashy, over-the-top fashion — gold accents, sparkling fabrics, and ornate accessories. She presents herself as someone important, whether or not she actually is.
+
 
 ---
 

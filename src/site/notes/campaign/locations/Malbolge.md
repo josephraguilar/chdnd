@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/malbolge/","tags":["location"],"created":"2025-10-29T12:59:43.960-07:00","updated":"2025-10-29T13:46:45.884-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/malbolge/","tags":["location"],"created":"2025-10-29T12:59:43.960-07:00","updated":"2025-10-29T13:46:53.686-07:00"}
 ---
 
 # # [[campaign/locations/Malbolge\|Malbolge]]

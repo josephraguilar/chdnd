@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/elowen/","tags":["character","player"],"created":"2025-10-29T13:47:57.045-07:00","updated":"2025-10-29T13:50:52.559-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/elowen/","tags":["character","player"],"created":"2025-10-29T13:47:57.045-07:00","updated":"2025-10-29T13:51:03.139-07:00"}
 ---
 
 

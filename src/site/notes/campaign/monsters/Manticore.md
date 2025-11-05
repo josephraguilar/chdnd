@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/monsters/manticore/","created":"2025-10-29T13:51:13.624-07:00","updated":"2025-10-29T13:53:00.143-07:00"}
+{"dg-publish":true,"permalink":"/campaign/monsters/manticore/","created":"2025-10-29T13:51:13.624-07:00","updated":"2025-10-29T13:53:09.740-07:00"}
 ---
 
 # [[campaign/monsters/Manticore\|Manticore]]

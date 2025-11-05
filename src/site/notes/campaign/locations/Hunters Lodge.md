@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/hunters-lodge/","tags":["location"],"created":"2025-10-28T20:13:20.175-07:00","updated":"2025-10-28T22:55:00.889-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/hunters-lodge/","tags":["location"],"created":"2025-10-28T20:13:20.175-07:00","updated":"2025-10-28T22:54:53.890-07:00"}
 ---
 
 # # [[campaign/locations/Hunters Lodge\|Hunters Lodge]]

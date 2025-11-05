@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/miles/","tags":["character","npc"],"created":"2025-10-28T21:43:26.253-07:00","updated":"2025-10-28T22:52:15.409-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/miles/","tags":["character","npc"],"created":"2025-10-28T21:43:26.253-07:00","updated":"2025-10-28T22:52:08.525-07:00"}
 ---
 
 

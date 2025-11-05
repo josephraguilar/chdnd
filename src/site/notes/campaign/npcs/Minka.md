@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/minka/","tags":["character","npc"],"created":"2025-10-28T21:40:34.049-07:00","updated":"2025-10-29T13:47:36.575-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/minka/","tags":["character","npc"],"created":"2025-10-28T21:40:34.049-07:00","updated":"2025-10-29T13:47:42.703-07:00"}
 ---
 
 

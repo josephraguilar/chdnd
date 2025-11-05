@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/small-carpet-of-flying/","created":"2025-10-28T22:12:46.883-07:00","updated":"2025-10-29T13:45:29.773-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/small-carpet-of-flying/","created":"2025-10-28T22:12:46.883-07:00","updated":"2025-10-29T13:45:36.035-07:00"}
 ---
 
 

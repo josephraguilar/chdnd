@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/mama-yasha/","tags":["character","npc"],"created":"2025-11-04T07:52:08.104-08:00","updated":"2025-11-04T08:22:45.933-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/mama-yasha/","tags":["character","npc"],"created":"2025-11-04T07:52:08.104-08:00","updated":"2025-11-04T18:24:25.821-08:00"}
 ---
 
 

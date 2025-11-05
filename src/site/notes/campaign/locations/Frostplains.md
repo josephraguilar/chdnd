@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/frostplains/","tags":["location"],"created":"2025-10-29T13:31:09.460-07:00","updated":"2025-10-29T13:31:23.103-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/frostplains/","tags":["location"],"created":"2025-10-29T13:31:09.460-07:00","updated":"2025-10-29T13:31:32.222-07:00"}
 ---
 
 # # [[campaign/locations/Frostplains\|Frostplains]]

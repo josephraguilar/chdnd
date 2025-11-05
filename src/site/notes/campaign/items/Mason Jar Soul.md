@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/mason-jar-soul/","created":"2025-10-28T22:11:43.828-07:00","updated":"2025-10-28T22:54:28.123-07:00"}
+{"dg-publish":true,"permalink":"/campaign/items/mason-jar-soul/","created":"2025-10-28T22:11:43.828-07:00","updated":"2025-10-28T22:54:20.948-07:00"}
 ---
 
 

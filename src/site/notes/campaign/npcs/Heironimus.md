@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/heironimus/","tags":["character","npc"],"created":"2025-10-28T18:49:59.276-07:00","updated":"2025-10-28T22:51:55.042-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/heironimus/","tags":["character","npc"],"created":"2025-10-28T18:49:59.276-07:00","updated":"2025-10-28T22:51:48.790-07:00"}
 ---
 
 
