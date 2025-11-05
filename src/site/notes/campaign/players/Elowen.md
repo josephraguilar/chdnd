@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/elowen/","tags":["character","player"],"created":"2025-10-29T13:47:57.045-07:00","updated":"2025-10-29T13:51:03.139-07:00"}
+{"dg-publish":true,"permalink":"/campaign/players/elowen/","tags":["character","player"],"created":"2025-10-29T13:47:57.045-07:00","updated":"2025-11-04T18:54:08.023-08:00"}
 ---
 
 
@@ -10,6 +10,7 @@
 <li dir="auto"><strong>Level:</strong> 7</li>
 <li dir="auto"><strong>Status:</strong> dead</li>
 </ul></span></p>
+![Elowyn.png](/img/user/Elowyn.png)
 
 ---
 
