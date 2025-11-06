@@ -45,6 +45,7 @@ A place where friends come and go, but [[campaign/npcs/Mama Yasha\|Mama Yasha]] 
 | [[campaign/sessions/002 10-14-2025\|002 10-14-2025]] | A Shot in the Dark |
 | [[campaign/sessions/003 10-21-2025\|003 10-21-2025]] | Living with Sin    |
 | [[campaign/sessions/004 10-28-2025\|004 10-28-2025]] | Predator           |
+| [[campaign/sessions/005 11-04-2025\|005 11-04-2025]] | \-                 |
 
 { .block-language-dataview}
 

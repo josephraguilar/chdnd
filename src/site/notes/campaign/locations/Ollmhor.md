@@ -21,8 +21,9 @@ Continent on the north-west end of the world.
 ---
 
 ## Relevant People
-| File | Gender | Race | Role | Description |
-| ---- | ------ | ---- | ---- | ----------- |
+| File                              | Gender | Race | Role | Description |
+| --------------------------------- | ------ | ---- | ---- | ----------- |
+| [[campaign/npcs/Minka\|Minka]] | \-     | \-   | \-   | \-          |
 
 { .block-language-dataview}
 

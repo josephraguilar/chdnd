@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/fishburg/","tags":["location"],"created":"2025-10-29T13:29:00.799-07:00","updated":"2025-10-29T13:29:50.066-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/fishburg/","tags":["location"],"created":"2025-10-29T13:29:00.799-07:00","updated":"2025-11-04T19:52:51.889-08:00"}
 ---
 
 # # [[campaign/locations/Fishburg\|Fishburg]]
@@ -34,3 +34,5 @@ Small fishing village north-east of [[campaign/locations/Nog Glas Castle\|Nog Gl
 
 ## Notes
 The party was paid to transport "Totally normal goods" here from [[campaign/locations/GoodWeather Bay\|GoodWeather Bay]]
+
+
