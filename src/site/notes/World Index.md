@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"],"created":"2025-10-28T08:13:58.026-07:00","updated":"2025-10-29T15:49:52.652-07:00"}
+{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"],"created":"2025-10-28T08:13:58.026-07:00","updated":"2025-11-07T19:32:03.681-08:00"}
 ---
 
 # The World of Bydmorathir
 
 ## Player Characters
-| Character                                                  | Played By | Race                  | Class                          | Alignment    |
-| ---------------------------------------------------------- | --------- | --------------------- | ------------------------------ | ------------ |
-| [[campaign/players/Flynn\|Flynn]]                       | Becca     | Elf                   | Fighter - Echo Knight          | \-           |
-| [[campaign/players/Elowen\|Elowen]]                     | Becca     | Eladrin               | Wizard                         | \-           |
-| [[campaign/players/Sin\|Sin]]                           | Joe       | Devil - Phistophilus  | Warlock - The Fiend            | Lawful Evil  |
-| [[campaign/players/Sim\|Sim]]                           | Joe       | Fairy                 | Cleric - Trickery Domain       | Neutral Good |
-| [[campaign/players/Dags\|Dags]]                         | Justin    | Mark of Finding Human | Artificer                      | \-           |
-| [[campaign/players/Adira\|Adira]]                       | Kayla     | Human                 | Barbarian - Path of Wild Magic | \-           |
-| [[campaign/players/Faliq\|Faliq]]                       | Maryann   | Elf                   | Fighter - Arcane Archer        | \-           |
-| [[campaign/players/Ulric Moonshadow\|Ulric Moonshadow]] | Michael   | Elf                   | Rogue - Soulknife              | \-           |
-| [[campaign/players/Manon\|Manon]]                       | Shay      | Elf                   | Ranger - Hunter                | \-           |
+| img                                          | Character                                                  | Played By | Race                  | Class                          | Alignment    |
+| -------------------------------------------- | ---------------------------------------------------------- | --------- | --------------------- | ------------------------------ | ------------ |
+| ![[data/img/Flynn.jpeg\|Flynn.jpeg]]         | [[campaign/players/Flynn\|Flynn]]                       | Becca     | Elf                   | Fighter - Echo Knight          | \-           |
+| ![[data/img/Elowyn_ava.png\|Elowyn_ava.png]] | [[campaign/players/Elowen\|Elowen]]                     | Becca     | Eladrin               | Wizard                         | \-           |
+| ![[data/img/sin_ava.png\|sin_ava.png]]       | [[campaign/players/Sin\|Sin]]                           | Joe       | Devil - Phistophilus  | Warlock - The Fiend            | Lawful Evil  |
+| ![[data/img/sim_ava.png\|sim_ava.png]]       | [[campaign/players/Sim\|Sim]]                           | Joe       | Fairy                 | Cleric - Trickery Domain       | Neutral Good |
+| \-                                           | [[campaign/players/Dags\|Dags]]                         | Justin    | Mark of Finding Human | Artificer                      | \-           |
+| \-                                           | [[campaign/players/Adira\|Adira]]                       | Kayla     | Human                 | Barbarian - Path of Wild Magic | \-           |
+| ![[data/img/Faliq_ava.png\|Faliq_ava.png]]   | [[campaign/players/Faliq\|Faliq]]                       | Maryann   | Elf                   | Fighter - Arcane Archer        | \-           |
+| \-                                           | [[campaign/players/Ulric Moonshadow\|Ulric Moonshadow]] | Michael   | Elf                   | Rogue - Soulknife              | \-           |
+| \-                                           | [[campaign/players/Manon\|Manon]]                       | Shay      | Elf                   | Ranger - Hunter                | \-           |
 
 { .block-language-dataview}
 
