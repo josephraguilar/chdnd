@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/faliq/","tags":["character","player"],"created":"2025-10-28T18:41:36.542-07:00","updated":"2025-11-07T19:47:18.720-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/faliq/","tags":["character","player"],"created":"2025-10-28T18:41:36.542-07:00","updated":"2025-11-07T20:34:45.685-08:00"}
 ---
 
 ![Faliq.png](/img/user/data/img/Faliq.png)
