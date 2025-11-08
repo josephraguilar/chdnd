@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/sim/","tags":["character","player"],"created":"2025-10-29T12:33:16.224-07:00","updated":"2025-11-04T18:58:38.965-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/sim/","tags":["character","player"],"created":"2025-10-29T12:33:16.224-07:00","updated":"2025-11-04T18:58:47.488-08:00"}
 ---
 
 
-![Sim.jpeg](/img/user/Sim.jpeg)
+![Sim.jpeg](/img/user/data/img/Sim.jpeg)
 <p><span><ul>
 <li dir="auto"><strong>Played By:</strong> Joe</li>
 <li dir="auto"><strong>Race:</strong> Fairy</li>

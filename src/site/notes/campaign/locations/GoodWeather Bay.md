@@ -26,6 +26,7 @@
 | ------------------------------------------- | ------ | -------- | ---- | -------------------------------- |
 | [[campaign/npcs/Becky\|Becky]]           | female | Tiefling | \-   | sells drugs at the hunters lodge |
 | [[campaign/npcs/Heironimus\|Heironimus]] | male   | Loxodon  | \-   | \-                               |
+| [[campaign/npcs/Timeteo\|Timeteo]]       | male   | \-       | \-   | \-                               |
 
 { .block-language-dataview}
 

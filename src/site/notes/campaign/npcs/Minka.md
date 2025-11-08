@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/minka/","tags":["character","npc"],"created":"2025-10-28T21:40:34.049-07:00","updated":"2025-11-04T19:12:23.710-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/minka/","tags":["character","npc"],"created":"2025-10-28T21:40:34.049-07:00","updated":"2025-11-06T20:33:40.227-08:00"}
 ---
 
 
@@ -26,4 +26,4 @@
 ---
 
 ## Notes
-Minotaurs are form the north end of [[campaign/locations/Ollmhor\|Ollmhor]].
+Minotaurs are form the north end of [[campaign/locations/Ollmhor\|Ollmhor]]. [[campaign/players/Faliq\|Faliq]]'s "Contracted worker" aka "intern" aka "SLAVE".

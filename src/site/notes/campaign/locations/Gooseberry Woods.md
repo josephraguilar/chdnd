@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/gooseberry-woods/","tags":["location"],"created":"2025-10-28T18:56:10.246-07:00","updated":"2025-10-28T22:54:50.503-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/gooseberry-woods/","tags":["location"],"created":"2025-10-28T18:56:10.246-07:00","updated":"2025-10-28T22:55:00.720-07:00"}
 ---
 
 # # [[campaign/locations/Gooseberry Woods\|Gooseberry Woods]]

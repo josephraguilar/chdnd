@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/sin/","tags":["character","player"],"created":"2025-10-29T12:50:43.179-07:00","updated":"2025-11-04T18:37:22.376-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/sin/","tags":["character","player"],"created":"2025-10-29T12:50:43.179-07:00","updated":"2025-11-04T18:37:31.006-08:00"}
 ---
 
-![sin.jpeg](/img/user/sin.jpeg)
+![sin.jpeg](/img/user/data/img/sin.jpeg)
 <p><span><ul>
 <li dir="auto"><strong>Played By:</strong> Joe</li>
 <li dir="auto"><strong>Race:</strong> Devil - Phistophilus</li>
