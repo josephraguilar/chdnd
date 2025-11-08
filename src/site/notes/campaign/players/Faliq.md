@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/faliq/","tags":["character","player"],"created":"2025-10-28T18:41:36.542-07:00","updated":"2025-11-07T19:41:30.924-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/faliq/","tags":["character","player"],"created":"2025-10-28T18:41:36.542-07:00","updated":"2025-11-07T19:47:18.720-08:00"}
 ---
 
-
+![Faliq.png](/img/user/data/img/Faliq.png)
 <p><span><ul>
 <li dir="auto"><strong>Played By:</strong> Maryann</li>
 <li dir="auto"><strong>Race:</strong> Elf</li>
@@ -12,7 +12,7 @@
 </ul></span></p>
 
 ---
-![Faliq.png](/img/user/data/img/Faliq.png)
+
 # [[campaign/players/Faliq\|Faliq]]
 Faliq loves bling. She likes to look impossibly wealthy and exudes confidence through flashy, over-the-top fashion — gold accents, sparkling fabrics, and ornate accessories. She presents herself as someone important, whether or not she actually is.
 
