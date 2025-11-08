@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/elowen/","tags":["character","player"],"created":"2025-10-29T13:47:57.045-07:00","updated":"2025-11-07T19:56:47.561-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/elowen/","tags":["character","player"],"created":"2025-10-29T13:47:57.045-07:00","updated":"2025-11-07T20:05:05.940-08:00"}
 ---
 
 ![Elowyn.jpeg](/img/user/data/img/Elowyn.jpeg)
@@ -9,6 +9,7 @@
 <li dir="auto"><strong>Class:</strong> Wizard</li>
 <li dir="auto"><strong>Level:</strong> 7</li>
 <li dir="auto"><strong>Status:</strong> dead</li>
+<li dir="auto"><strong>Notes:</strong> .</li>
 </ul></span></p>
 ![[Elowyn.png\|Elowyn.png]]
 
@@ -29,7 +30,7 @@
 
 ## Relationships
 - 
-
+.
 ---
 
 ## Notes
