@@ -5,17 +5,17 @@
 # The World of Bydmorathir
 
 ## Player Characters
-| img                                                        | Character                                                  | Played By | Race                  | Class                          | Alignment    |
-| ---------------------------------------------------------- | ---------------------------------------------------------- | --------- | --------------------- | ------------------------------ | ------------ |
-| ![[data/img/Flynn.jpeg\|Flynn.jpeg]]                       | [[campaign/players/Flynn\|Flynn]]                       | Becca     | Elf                   | Fighter - Echo Knight          | \-           |
-| <img src="/img/user/data/img/Elowyn" alt="Elowyn_ava.png"> | [[campaign/players/Elowen\|Elowen]]                     | Becca     | Eladrin               | Wizard                         | \-           |
-| ![[data/img/sin_ava.png\|sin_ava.png]]                     | [[campaign/players/Sin\|Sin]]                           | Joe       | Devil - Phistophilus  | Warlock - The Fiend            | Lawful Evil  |
-| ![[data/img/sim_ava.png\|sim_ava.png]]                     | [[campaign/players/Sim\|Sim]]                           | Joe       | Fairy                 | Cleric - Trickery Domain       | Neutral Good |
-| \-                                                         | [[campaign/players/Dags\|Dags]]                         | Justin    | Mark of Finding Human | Artificer                      | \-           |
-| \-                                                         | [[campaign/players/Adira\|Adira]]                       | Kayla     | Human                 | Barbarian - Path of Wild Magic | \-           |
-| ![[data/img/Faliq_ava.png\|Faliq_ava.png]]                 | [[campaign/players/Faliq\|Faliq]]                       | Maryann   | Elf                   | Fighter - Arcane Archer        | \-           |
-| \-                                                         | [[campaign/players/Ulric Moonshadow\|Ulric Moonshadow]] | Michael   | Elf                   | Rogue - Soulknife              | \-           |
-| \-                                                         | [[campaign/players/Manon\|Manon]]                       | Shay      | Elf                   | Ranger - Hunter                | \-           |
+| img                                                            | Character                                                  | Played By | Race                  | Class                          | Alignment    |
+| -------------------------------------------------------------- | ---------------------------------------------------------- | --------- | --------------------- | ------------------------------ | ------------ |
+| ![[data/img/Flynn.jpeg\|Flynn.jpeg]]                           | [[campaign/players/Flynn\|Flynn]]                       | Becca     | Elf                   | Fighter - Echo Knight          | \-           |
+| <img src="/img/user/data/img/Elowyn.png" alt="Elowyn_ava.png"> | [[campaign/players/Elowen\|Elowen]]                     | Becca     | Eladrin               | Wizard                         | \-           |
+| ![[data/img/sin_ava.png\|sin_ava.png]]                         | [[campaign/players/Sin\|Sin]]                           | Joe       | Devil - Phistophilus  | Warlock - The Fiend            | Lawful Evil  |
+| ![[data/img/sim_ava.png\|sim_ava.png]]                         | [[campaign/players/Sim\|Sim]]                           | Joe       | Fairy                 | Cleric - Trickery Domain       | Neutral Good |
+| \-                                                             | [[campaign/players/Dags\|Dags]]                         | Justin    | Mark of Finding Human | Artificer                      | \-           |
+| \-                                                             | [[campaign/players/Adira\|Adira]]                       | Kayla     | Human                 | Barbarian - Path of Wild Magic | \-           |
+| ![[data/img/Faliq_ava.png\|Faliq_ava.png]]                     | [[campaign/players/Faliq\|Faliq]]                       | Maryann   | Elf                   | Fighter - Arcane Archer        | \-           |
+| \-                                                             | [[campaign/players/Ulric Moonshadow\|Ulric Moonshadow]] | Michael   | Elf                   | Rogue - Soulknife              | \-           |
+| \-                                                             | [[campaign/players/Manon\|Manon]]                       | Shay      | Elf                   | Ranger - Hunter                | \-           |
 
 { .block-language-dataview}
 
