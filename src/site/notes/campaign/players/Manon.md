@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/manon/","tags":["character","player"],"created":"2025-10-28T19:46:57.038-07:00","updated":"2025-11-07T19:31:02.790-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/manon/","tags":["character","player"],"created":"2025-10-28T19:46:57.038-07:00","updated":"2025-11-07T19:41:37.177-08:00"}
 ---
 
 

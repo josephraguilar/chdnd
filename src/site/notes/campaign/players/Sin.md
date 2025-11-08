@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/sin/","tags":["character","player"],"created":"2025-10-29T12:50:43.179-07:00","updated":"2025-11-07T19:35:54.446-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/sin/","tags":["character","player"],"created":"2025-10-29T12:50:43.179-07:00","updated":"2025-11-07T19:41:43.501-08:00"}
 ---
 
 ![sin.jpeg](/img/user/data/img/sin.jpeg)
@@ -11,7 +11,6 @@
 <li dir="auto"><strong>Alignment:</strong> Lawful Evil</li>
 <li dir="auto"><strong>Role:</strong> Phistophilus</li>
 <li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Burning Spires.md" data-href="campaign/locations/Burning Spires.md" href="campaign/locations/Burning Spires.md" class="internal-link" target="_blank" rel="noopener nofollow">Burning Spires</a></li>
-<li dir="auto"><strong>Avatar:</strong> <span alt="sin_ava.png" src="data/img/sin_ava.png" class="internal-embed media-embed image-embed is-loaded"><img alt="sin_ava.png" src="app://7cc1a8f9219d0cffd21b5688d93d371a0266/G:/My%20Drive/Obsidian/Conners%20World/data/img/sin_ava.png?1762572939879"></span></li>
 </ul></span></p>
 
 ---

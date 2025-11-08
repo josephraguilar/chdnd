@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/faliq/","tags":["character","player"],"created":"2025-10-28T18:41:36.542-07:00","updated":"2025-11-07T19:36:29.911-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/faliq/","tags":["character","player"],"created":"2025-10-28T18:41:36.542-07:00","updated":"2025-11-07T19:41:30.924-08:00"}
 ---
 
 
@@ -9,7 +9,6 @@
 <li dir="auto"><strong>Class:</strong> Fighter - Arcane Archer</li>
 <li dir="auto"><strong>Level:</strong> 8</li>
 <li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/GoodWeather Bay.md" data-href="campaign/locations/GoodWeather Bay.md" href="campaign/locations/GoodWeather Bay.md" class="internal-link" target="_blank" rel="noopener nofollow">GoodWeather Bay</a></li>
-<li dir="auto"><strong>Avatar:</strong> <span alt="Faliq_ava.png" src="data/img/Faliq_ava.png" class="internal-embed media-embed image-embed is-loaded"><img alt="Faliq_ava.png" src="app://7cc1a8f9219d0cffd21b5688d93d371a0266/G:/My%20Drive/Obsidian/Conners%20World/data/img/Faliq_ava.png?1762572874107"></span></li>
 </ul></span></p>
 
 ---
