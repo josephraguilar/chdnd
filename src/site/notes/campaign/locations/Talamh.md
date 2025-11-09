@@ -16,15 +16,15 @@ Continent on the south east side of [[campaign/locations/Bydmorathir\|Bydmorathi
 | Location                                                         | Type                 |
 | ---------------------------------------------------------------- | -------------------- |
 | [[campaign/locations/Dry Rock Gulch\|Dry Rock Gulch]]         | \-                   |
-| [[campaign/locations/Smallhill Grove\|Smallhill Grove]]       | \-                   |
 | [[campaign/locations/Riverbend\|Riverbend]]                   | \-                   |
+| [[campaign/locations/Smallhill Grove\|Smallhill Grove]]       | \-                   |
 | [[campaign/locations/Burning Spires\|Burning Spires]]         | 2_region/archipelago |
 | [[campaign/locations/Flattop Forrest\|Flattop Forrest]]       | 2_region/archipelago |
-| [[campaign/locations/Southwind Cove\|Southwind Cove]]         | 2_region/archipelago |
 | [[campaign/locations/Downland Mountains\|Downland Mountains]] | 2_region/archipelago |
+| [[campaign/locations/Southwind Cove\|Southwind Cove]]         | 2_region/archipelago |
 | [[campaign/locations/Di'Lantel Range\|Di'Lantel Range]]       | 2_region/archipelago |
-| [[campaign/locations/Strait of Barzum\|Strait of Barzum]]     | 2_region/archipelago |
 | [[campaign/locations/Frostplains\|Frostplains]]               | 2_region/archipelago |
+| [[campaign/locations/Strait of Barzum\|Strait of Barzum]]     | 2_region/archipelago |
 | [[campaign/locations/Rocky Point\|Rocky Point]]               | 2_region/archipelago |
 | [[campaign/locations/Symud Desert\|Symud Desert]]             | 2_region/archipelago |
 | [[campaign/locations/Nog Glas Castle\|Nog Glas Castle]]       | 4_city/island        |
