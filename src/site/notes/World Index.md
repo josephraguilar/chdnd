@@ -7,8 +7,8 @@
 ## Player Characters
 | img                                                  | Character                                                  | Played By | Race                  | Class                          | Alignment    |
 | ---------------------------------------------------- | ---------------------------------------------------------- | --------- | --------------------- | ------------------------------ | ------------ |
-| <img src="/img/Elowyn_ava.png" alt="Elowyn_ava.png"> | [[campaign/players/Elowen\|Elowen]]                     | Becca     | Eladrin               | Wizard                         | \-           |
 | <img src="/img/Flynn.jpeg" alt="Flynn.jpeg">         | [[campaign/players/Flynn\|Flynn]]                       | Becca     | Elf                   | Fighter - Echo Knight          | \-           |
+| <img src="/img/Elowyn_ava.png" alt="Elowyn_ava.png"> | [[campaign/players/Elowen\|Elowen]]                     | Becca     | Eladrin               | Wizard                         | \-           |
 | <img src="/img/sin_ava.png" alt="sin_ava.png">       | [[campaign/players/Sin\|Sin]]                           | Joe       | Devil - Phistophilus  | Warlock - The Fiend            | Lawful Evil  |
 | <img src="/img/sim_ava.png" alt="sim_ava.png">       | [[campaign/players/Sim\|Sim]]                           | Joe       | Fairy                 | Cleric - Trickery Domain       | Neutral Good |
 | \-                                                   | [[campaign/players/Dags\|Dags]]                         | Justin    | Mark of Finding Human | Artificer                      | \-           |
@@ -45,7 +45,7 @@ A place where friends come and go, but [[campaign/npcs/Mama Yasha\|Mama Yasha]] 
 | [[campaign/sessions/002 10-14-2025\|002 10-14-2025]] | A Shot in the Dark |
 | [[campaign/sessions/003 10-21-2025\|003 10-21-2025]] | Living with Sin    |
 | [[campaign/sessions/004 10-28-2025\|004 10-28-2025]] | Predator           |
-| [[campaign/sessions/005 11-04-2025\|005 11-04-2025]] | \-                 |
+| [[campaign/sessions/005 11-04-2025\|005 11-04-2025]] | Birth of Bloodwind |
 
 { .block-language-dataview}
 
