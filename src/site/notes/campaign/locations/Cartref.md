@@ -16,6 +16,7 @@ Continent on the north-east end of the world.
 | Location                                                         | Type                 |
 | ---------------------------------------------------------------- | -------------------- |
 | [[campaign/locations/Shatterwood Forest\|Shatterwood Forest]] | 2_region/archipelago |
+| [[campaign/locations/Darkwell Keep\|Darkwell Keep]]           | 4_city/island        |
 
 { .block-language-dataview}
 

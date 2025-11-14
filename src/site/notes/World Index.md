@@ -14,7 +14,7 @@
 | \-                                                   | [[campaign/players/Dags\|Dags]]                         | Justin    | Mark of Finding Human | Artificer                      | \-           |
 | \-                                                   | [[campaign/players/Adira\|Adira]]                       | Kayla     | Human                 | Barbarian - Path of Wild Magic | \-           |
 | <img src="/img/Faliq_ava.png" alt="Faliq_ava.png">   | [[campaign/players/Faliq\|Faliq]]                       | Maryann   | Elf                   | Fighter - Arcane Archer        | \-           |
-| \-                                                   | [[campaign/players/Ulric Moonshadow\|Ulric Moonshadow]] | Michael   | Elf                   | Rogue - Soulknife              | \-           |
+| <img src="/img/ulrich_ava.png" alt="ulrich_ava.png"> | [[campaign/players/Ulric Moonshadow\|Ulric Moonshadow]] | Michael   | Elf                   | Rogue - Soulknife              | \-           |
 | <img src="/img/manon_ava.png" alt="manon_ava.png">   | [[campaign/players/Manon\|Manon]]                       | Shay      | Elf                   | Ranger - Hunter                | \-           |
 
 { .block-language-dataview}
@@ -39,14 +39,14 @@ A place where friends come and go, but [[campaign/npcs/Mama Yasha\|Mama Yasha]] 
 
 ## Sessions
 
-| File                                                    | Summary            |
-| ------------------------------------------------------- | ------------------ |
-| [[campaign/sessions/001 10-07-2025\|001 10-07-2025]] | Prison Break       |
-| [[campaign/sessions/002 10-14-2025\|002 10-14-2025]] | A Shot in the Dark |
-| [[campaign/sessions/003 10-21-2025\|003 10-21-2025]] | Living with Sin    |
-| [[campaign/sessions/004 10-28-2025\|004 10-28-2025]] | Predator           |
-| [[campaign/sessions/005 11-04-2025\|005 11-04-2025]] | Birth of Bloodwind |
-| [[campaign/sessions/006 11-11-2025\|006 11-11-2025]] | \-                 |
+| File                                                    | Summary             |
+| ------------------------------------------------------- | ------------------- |
+| [[campaign/sessions/001 10-07-2025\|001 10-07-2025]] | Prison Break        |
+| [[campaign/sessions/002 10-14-2025\|002 10-14-2025]] | A Shot in the Dark  |
+| [[campaign/sessions/003 10-21-2025\|003 10-21-2025]] | Living with Sin     |
+| [[campaign/sessions/004 10-28-2025\|004 10-28-2025]] | Predator            |
+| [[campaign/sessions/005 11-04-2025\|005 11-04-2025]] | Birth of Bloodwind  |
+| [[campaign/sessions/006 11-11-2025\|006 11-11-2025]] | Darkwell Liberators |
 
 { .block-language-dataview}
 
