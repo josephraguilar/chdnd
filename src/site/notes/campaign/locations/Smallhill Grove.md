@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/smallhill-grove/","tags":["location"],"created":"2025-10-29T13:30:29.326-07:00","updated":"2025-10-29T13:30:57.033-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/smallhill-grove/","tags":["location"],"created":"2025-10-29T13:30:29.326-07:00","updated":"2025-10-29T13:30:46.624-07:00"}
 ---
 
 # # [[campaign/locations/Smallhill Grove\|Smallhill Grove]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/flynn/","tags":["character","player"],"created":"2025-10-28T19:50:17.774-07:00","updated":"2025-11-07T20:35:04.312-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/flynn/","tags":["character","player"],"created":"2025-10-28T19:50:17.774-07:00","updated":"2025-11-07T20:35:11.759-08:00"}
 ---
 
 ![Flynn.jpeg](/img/user/data/img/Flynn.jpeg)

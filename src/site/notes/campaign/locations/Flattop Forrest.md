@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/flattop-forrest/","tags":["location"],"created":"2025-10-29T13:23:28.076-07:00","updated":"2025-10-29T13:47:01.652-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/flattop-forrest/","tags":["location"],"created":"2025-10-29T13:23:28.076-07:00","updated":"2025-10-29T13:46:51.302-07:00"}
 ---
 
 # # [[campaign/locations/Flattop Forrest\|Flattop Forrest]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/south-marlan-keep/","tags":["location"],"created":"2025-10-29T13:21:11.486-07:00","updated":"2025-10-29T13:46:42.878-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/south-marlan-keep/","tags":["location"],"created":"2025-10-29T13:21:11.486-07:00","updated":"2025-10-29T13:46:36.086-07:00"}
 ---
 
 # # [[campaign/locations/South Marlan Keep\|South Marlan Keep]]

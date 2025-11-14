@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/good-weather-bay/","tags":["location"],"created":"2025-10-28T20:15:23.126-07:00","updated":"2025-10-29T13:28:56.614-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/good-weather-bay/","tags":["location"],"created":"2025-10-28T20:15:23.126-07:00","updated":"2025-10-29T13:28:49.715-07:00"}
 ---
 
 # # [[campaign/locations/GoodWeather Bay\|GoodWeather Bay]]

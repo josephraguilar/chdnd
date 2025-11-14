@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"],"created":"2025-10-28T08:13:58.026-07:00","updated":"2025-11-07T19:32:03.681-08:00"}
+{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"],"created":"2025-10-28T08:13:58.026-07:00","updated":"2025-11-07T19:32:11.269-08:00"}
 ---
 
 # The World of Bydmorathir
@@ -15,7 +15,7 @@
 | \-                                                   | [[campaign/players/Adira\|Adira]]                       | Kayla     | Human                 | Barbarian - Path of Wild Magic | \-           |
 | <img src="/img/Faliq_ava.png" alt="Faliq_ava.png">   | [[campaign/players/Faliq\|Faliq]]                       | Maryann   | Elf                   | Fighter - Arcane Archer        | \-           |
 | \-                                                   | [[campaign/players/Ulric Moonshadow\|Ulric Moonshadow]] | Michael   | Elf                   | Rogue - Soulknife              | \-           |
-| \-                                                   | [[campaign/players/Manon\|Manon]]                       | Shay      | Elf                   | Ranger - Hunter                | \-           |
+| <img src="/img/manon_ava.png" alt="manon_ava.png">   | [[campaign/players/Manon\|Manon]]                       | Shay      | Elf                   | Ranger - Hunter                | \-           |
 
 { .block-language-dataview}
 
@@ -46,6 +46,7 @@ A place where friends come and go, but [[campaign/npcs/Mama Yasha\|Mama Yasha]] 
 | [[campaign/sessions/003 10-21-2025\|003 10-21-2025]] | Living with Sin    |
 | [[campaign/sessions/004 10-28-2025\|004 10-28-2025]] | Predator           |
 | [[campaign/sessions/005 11-04-2025\|005 11-04-2025]] | Birth of Bloodwind |
+| [[campaign/sessions/006 11-11-2025\|006 11-11-2025]] | \-                 |
 
 { .block-language-dataview}
 

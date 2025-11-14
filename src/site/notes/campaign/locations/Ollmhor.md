@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/ollmhor/","tags":["location"],"created":"2025-10-29T13:21:39.251-07:00","updated":"2025-10-29T13:22:51.419-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/ollmhor/","tags":["location"],"created":"2025-10-29T13:21:39.251-07:00","updated":"2025-10-29T13:22:42.947-07:00"}
 ---
 
 # # [[campaign/locations/Ollmhor\|Ollmhor]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/ochre-wastes/","tags":["location"],"created":"2025-10-29T13:24:10.527-07:00","updated":"2025-10-29T13:46:51.495-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/ochre-wastes/","tags":["location"],"created":"2025-10-29T13:24:10.527-07:00","updated":"2025-10-29T13:46:40.837-07:00"}
 ---
 
 # # [[campaign/locations/Ochre Wastes\|Ochre Wastes]]

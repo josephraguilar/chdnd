@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/centurion-gates/","tags":["location"],"created":"2025-10-29T13:26:07.489-07:00","updated":"2025-10-29T13:47:08.839-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/centurion-gates/","tags":["location"],"created":"2025-10-29T13:26:07.489-07:00","updated":"2025-10-29T13:47:01.756-07:00"}
 ---
 
 # # [[campaign/locations/Centurion Gates\|Centurion Gates]]

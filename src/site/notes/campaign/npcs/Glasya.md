@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/glasya/","tags":["character","npc"],"created":"2025-10-29T12:56:20.394-07:00","updated":"2025-10-29T13:47:34.697-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/glasya/","tags":["character","npc"],"created":"2025-10-29T12:56:20.394-07:00","updated":"2025-10-29T13:47:25.703-07:00"}
 ---
 
 

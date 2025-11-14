@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/riverbend/","tags":["location"],"created":"2025-10-29T13:30:20.342-07:00","updated":"2025-10-29T13:31:01.250-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/riverbend/","tags":["location"],"created":"2025-10-29T13:30:20.342-07:00","updated":"2025-10-29T13:30:52.138-07:00"}
 ---
 
 # # [[campaign/locations/Riverbend\|Riverbend]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/embercrag-mountains/","tags":["location"],"created":"2025-10-29T13:24:35.906-07:00","updated":"2025-10-29T13:47:03.605-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/embercrag-mountains/","tags":["location"],"created":"2025-10-29T13:24:35.906-07:00","updated":"2025-10-29T13:46:56.179-07:00"}
 ---
 
 # # [[campaign/locations/Embercrag Mountains\|Embercrag Mountains]]

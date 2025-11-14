@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/sim/","tags":["character","player"],"created":"2025-10-29T12:33:16.224-07:00","updated":"2025-11-07T20:37:01.170-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/sim/","tags":["character","player"],"created":"2025-10-29T12:33:16.224-07:00","updated":"2025-11-07T20:37:07.881-08:00"}
 ---
 
 ![Sim.jpeg](/img/user/data/img/Sim.jpeg)

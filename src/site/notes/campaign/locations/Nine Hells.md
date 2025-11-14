@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/nine-hells/","tags":["location"],"created":"2025-10-29T12:57:38.080-07:00","updated":"2025-10-29T13:46:51.557-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/nine-hells/","tags":["location"],"created":"2025-10-29T12:57:38.080-07:00","updated":"2025-10-29T13:46:44.699-07:00"}
 ---
 
 # # [[campaign/locations/Nine Hells\|Nine Hells]]

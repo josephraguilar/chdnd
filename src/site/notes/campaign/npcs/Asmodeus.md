@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/asmodeus/","tags":["character","npc"],"created":"2025-10-29T12:57:51.364-07:00","updated":"2025-10-29T13:02:12.112-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/asmodeus/","tags":["character","npc"],"created":"2025-10-29T12:57:51.364-07:00","updated":"2025-10-29T13:02:05.642-07:00"}
 ---
 
 

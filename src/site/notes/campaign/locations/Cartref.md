@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/cartref/","tags":["location"],"created":"2025-10-29T13:22:29.806-07:00","updated":"2025-10-29T13:23:08.305-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/cartref/","tags":["location"],"created":"2025-10-29T13:22:29.806-07:00","updated":"2025-10-29T13:23:00.118-07:00"}
 ---
 
 # # [[campaign/locations/Cartref\|Cartref]]
@@ -13,8 +13,9 @@ Continent on the north-east end of the world.
 ---
 
 ### Contains
-| Location | Type |
-| -------- | ---- |
+| Location                                                         | Type                 |
+| ---------------------------------------------------------------- | -------------------- |
+| [[campaign/locations/Shatterwood Forest\|Shatterwood Forest]] | 2_region/archipelago |
 
 { .block-language-dataview}
 

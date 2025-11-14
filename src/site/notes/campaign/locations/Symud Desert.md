@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/symud-desert/","tags":["location"],"created":"2025-10-29T13:27:40.099-07:00","updated":"2025-10-29T13:28:12.812-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/symud-desert/","tags":["location"],"created":"2025-10-29T13:27:40.099-07:00","updated":"2025-10-29T13:28:06.753-07:00"}
 ---
 
 # # [[campaign/locations/Symud Desert\|Symud Desert]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/james-mc-gillicuddy/","tags":["character","npc"],"created":"2025-10-28T21:38:24.946-07:00","updated":"2025-11-07T19:24:16.820-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/james-mc-gillicuddy/","tags":["character","npc"],"created":"2025-10-28T21:38:24.946-07:00","updated":"2025-11-07T19:24:25.439-08:00"}
 ---
 
 

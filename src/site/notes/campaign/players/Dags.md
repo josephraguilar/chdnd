@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/dags/","tags":["character","player"],"created":"2025-10-28T15:59:47.072-07:00","updated":"2025-11-07T19:41:24.667-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/dags/","tags":["character","player"],"created":"2025-10-28T15:59:47.072-07:00","updated":"2025-11-07T19:41:31.403-08:00"}
 ---
 
 
