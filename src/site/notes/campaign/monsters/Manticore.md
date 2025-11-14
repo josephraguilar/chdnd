@@ -11,5 +11,5 @@ Human face, batlike wings, a lions body and serpentine tail.
 ---
 
 ## Notes
-The party killed one in [[campaign/locations/Gooseberry Woods\|Gooseberry Woods]] with [[campaign/npcs/Heironimus\|Heironimus]]
+The party killed one in [[campaign/locations/2_regions & archipalegos/Gooseberry Woods\|Gooseberry Woods]] with [[campaign/npcs/Heironimus\|Heironimus]]
 

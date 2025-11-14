@@ -10,7 +10,7 @@
 ---
 
 # [[campaign/npcs/Shen\|Shen]]
-[[campaign/npcs/Miles\|Miles]] swarf brother from the [[campaign/locations/Fighting Pit\|Fighting Pit]]
+[[campaign/npcs/Miles\|Miles]] swarf brother from the [[campaign/locations/5_sites/Fighting Pit\|Fighting Pit]]
 ## Personality
 **Traits:**  
 **Ideals:**  

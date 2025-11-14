@@ -5,7 +5,7 @@
 
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Alochar</li>
-<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Malbolge.md" data-href="campaign/locations/Malbolge.md" href="campaign/locations/Malbolge.md" class="internal-link" target="_blank" rel="noopener nofollow">Malbolge</a></li>
+<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/1_continents/Malbolge.md" data-href="campaign/locations/1_continents/Malbolge.md" href="campaign/locations/1_continents/Malbolge.md" class="internal-link" target="_blank" rel="noopener nofollow">Malbolge</a></li>
 <li dir="auto"><strong>Affiliation:</strong> <a data-tooltip-position="top" aria-label="campaign/players/Sin.md" data-href="campaign/players/Sin.md" href="campaign/players/Sin.md" class="internal-link" target="_blank" rel="noopener nofollow">Sin</a></li>
 </ul></span></p>
 

@@ -7,8 +7,8 @@
 <li dir="auto"><strong>Name:</strong> Heironimus</li>
 <li dir="auto"><strong>Gender:</strong> male</li>
 <li dir="auto"><strong>Race:</strong> Loxodon</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Hunters Lodge.md" data-href="campaign/locations/Hunters Lodge.md" href="campaign/locations/Hunters Lodge.md" class="internal-link" target="_blank" rel="noopener nofollow">Hunters Lodge</a></li>
-<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/GoodWeather Bay.md" data-href="campaign/locations/GoodWeather Bay.md" href="campaign/locations/GoodWeather Bay.md" class="internal-link" target="_blank" rel="noopener nofollow">GoodWeather Bay</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/5_sites/Hunters Lodge.md" data-href="campaign/locations/5_sites/Hunters Lodge.md" href="campaign/locations/5_sites/Hunters Lodge.md" class="internal-link" target="_blank" rel="noopener nofollow">Hunters Lodge</a></li>
+<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/3_cities &amp; islands/GoodWeather Bay.md" data-href="campaign/locations/3_cities &amp; islands/GoodWeather Bay.md" href="campaign/locations/3_cities &amp; islands/GoodWeather Bay.md" class="internal-link" target="_blank" rel="noopener nofollow">GoodWeather Bay</a></li>
 </ul></span></p>
 
 ---

@@ -7,13 +7,13 @@
 <li dir="auto"><strong>Name:</strong> Paulie</li>
 <li dir="auto"><strong>Gender:</strong> female</li>
 <li dir="auto"><strong>Race:</strong> Dwarf</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Darkwell Keep.md" data-href="campaign/locations/Darkwell Keep.md" href="campaign/locations/Darkwell Keep.md" class="internal-link" target="_blank" rel="noopener nofollow">Darkwell Keep</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/3_cities &amp; islands/Darkwell Keep.md" data-href="campaign/locations/3_cities &amp; islands/Darkwell Keep.md" href="campaign/locations/3_cities &amp; islands/Darkwell Keep.md" class="internal-link" target="_blank" rel="noopener nofollow">Darkwell Keep</a></li>
 </ul></span></p>
 
 ---
 
 # [[campaign/npcs/Paulie\|Paulie]]
-Paulina is a tom-boy shoveler in [[campaign/locations/Darkwell Keep\|Darkwell Keep]] who worked for the college, but turned tides after falling deeply in love with [[campaign/players/Faliq\|Faliq]]
+Paulina is a tom-boy shoveler in [[campaign/locations/3_cities & islands/Darkwell Keep\|Darkwell Keep]] who worked for the college, but turned tides after falling deeply in love with [[campaign/players/Faliq\|Faliq]]
 
 ## Personality
 **Traits:**  

@@ -10,8 +10,8 @@
 <li dir="auto"><strong>Level:</strong> 8</li>
 <li dir="auto"><strong>Alignment:</strong> Neutral Good</li>
 <li dir="auto"><strong>Status:</strong> unknown</li>
-<li dir="auto"><strong>Hails From:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Fey Wild.md" data-href="campaign/locations/Fey Wild.md" href="campaign/locations/Fey Wild.md" class="internal-link" target="_blank" rel="noopener nofollow">Fey Wild</a></li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Nog Glas Castle.md" data-href="campaign/locations/Nog Glas Castle.md" href="campaign/locations/Nog Glas Castle.md" class="internal-link" target="_blank" rel="noopener nofollow">Nog Glas Castle</a></li>
+<li dir="auto"><strong>Hails From:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/0_worlds/Fey Wild.md" data-href="campaign/locations/0_worlds/Fey Wild.md" href="campaign/locations/0_worlds/Fey Wild.md" class="internal-link" target="_blank" rel="noopener nofollow">Fey Wild</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/3_cities &amp; islands/Nog Glas Castle.md" data-href="campaign/locations/3_cities &amp; islands/Nog Glas Castle.md" href="campaign/locations/3_cities &amp; islands/Nog Glas Castle.md" class="internal-link" target="_blank" rel="noopener nofollow">Nog Glas Castle</a></li>
 <li dir="auto"><strong>Notes:</strong> A charismatic trouble maker fairy with a good heart.</li>
 </ul></span></p>
 

@@ -5,7 +5,7 @@
 
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Sword of General Persinious</li>
-<li dir="auto"><strong>Owner:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/La Salls.md" data-href="campaign/locations/La Salls.md" href="campaign/locations/La Salls.md" class="internal-link" target="_blank" rel="noopener nofollow">La Salls</a></li>
+<li dir="auto"><strong>Owner:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/5_sites/La Salls.md" data-href="campaign/locations/5_sites/La Salls.md" href="campaign/locations/5_sites/La Salls.md" class="internal-link" target="_blank" rel="noopener nofollow">La Salls</a></li>
 </ul></span></p>
 
 ---
@@ -13,4 +13,4 @@
 An ornate sword once weilded by a general during the pre-blight era.
 
 ## Notes
-[[campaign/players/Dags\|Dags]] exchanged it for some flying carpets at [[campaign/locations/La Salls\|La Salls]]. 
+[[campaign/players/Dags\|Dags]] exchanged it for some flying carpets at [[campaign/locations/5_sites/La Salls\|La Salls]]. 

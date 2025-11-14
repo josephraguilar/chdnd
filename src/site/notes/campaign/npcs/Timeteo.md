@@ -6,7 +6,7 @@
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Timeteo</li>
 <li dir="auto"><strong>Gender:</strong> male</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/GoodWeather Bay.md" data-href="campaign/locations/GoodWeather Bay.md" href="campaign/locations/GoodWeather Bay.md" class="internal-link" target="_blank" rel="noopener nofollow">GoodWeather Bay</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/3_cities &amp; islands/GoodWeather Bay.md" data-href="campaign/locations/3_cities &amp; islands/GoodWeather Bay.md" href="campaign/locations/3_cities &amp; islands/GoodWeather Bay.md" class="internal-link" target="_blank" rel="noopener nofollow">GoodWeather Bay</a></li>
 </ul></span></p>
 
 ---
