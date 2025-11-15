@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/1-continents/malbolge/","tags":["location"],"created":"2025-10-29T12:59:43.960-07:00","updated":"2025-10-29T13:46:45.884-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/1-continents/malbolge/","tags":["location"],"created":"2025-10-29T12:59:43.960-07:00","updated":"2025-10-29T13:46:53.686-07:00"}
 ---
 
 # # [[campaign/locations/1_continents/Malbolge\|Malbolge]]
@@ -21,10 +21,9 @@ The sixth layer of the nine hells, ran by [[campaign/npcs/Glasya\|Glasya]].
 ---
 
 ## Relevant People
-| File                                  | Gender | Race  | Role | Description |
-| ------------------------------------- | ------ | ----- | ---- | ----------- |
-| [[campaign/npcs/Alochar\|Alochar]] | \-     | \-    | \-   | \-          |
-| [[campaign/npcs/Glasya\|Glasya]]   | female | Devil | \-   | \-          |
+| File                                  | Gender | Race | Role | Description |
+| ------------------------------------- | ------ | ---- | ---- | ----------- |
+| [[campaign/npcs/Alochar\|Alochar]] | \-     | \-   | \-   | \-          |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/paulie/","tags":["character","npc"],"created":"2025-11-14T13:53:48.966-08:00","updated":"2025-11-14T13:55:03.239-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/paulie/","tags":["character","npc"],"created":"2025-11-14T13:53:48.966-08:00","updated":"2025-11-14T13:55:08.590-08:00"}
 ---
 
 

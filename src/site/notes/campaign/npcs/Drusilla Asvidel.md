@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/drusilla-asvidel/","tags":["character","npc"],"created":"2025-11-14T13:48:03.635-08:00","updated":"2025-11-14T13:52:01.484-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/drusilla-asvidel/","tags":["character","npc"],"created":"2025-11-14T13:48:03.635-08:00","updated":"2025-11-14T13:52:08.158-08:00"}
 ---
 
 

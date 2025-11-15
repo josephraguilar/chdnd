@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipalegos/shatterwood-forest/","tags":["location"],"created":"2025-11-11T18:38:23.800-08:00","updated":"2025-11-14T13:51:39.244-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipalegos/shatterwood-forest/","tags":["location"],"created":"2025-11-11T18:38:23.800-08:00","updated":"2025-11-14T13:51:48.160-08:00"}
 ---
 
 ## [[campaign/locations/2_regions & archipalegos/Shatterwood Forest\|Shatterwood Forest]]

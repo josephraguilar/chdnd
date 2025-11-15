@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/0-worlds/bydmorathir/","tags":["location"],"created":"2025-10-29T12:27:38.903-07:00","updated":"2025-10-29T13:47:05.451-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/0-worlds/bydmorathir/","tags":["location"],"created":"2025-10-29T12:27:38.903-07:00","updated":"2025-10-29T13:47:11.566-07:00"}
 ---
 
 # # [[campaign/locations/0_worlds/Bydmorathir\|Bydmorathir]]
@@ -15,8 +15,8 @@
 | Location                                                | Type        |
 | ------------------------------------------------------- | ----------- |
 | [[campaign/locations/1_continents/Cartref\|Cartref]] | 1_continent |
-| [[campaign/locations/1_continents/Ollmhor\|Ollmhor]] | 1_continent |
 | [[campaign/locations/1_continents/Talamh\|Talamh]]   | 1_continent |
+| [[campaign/locations/1_continents/Ollmhor\|Ollmhor]] | 1_continent |
 
 { .block-language-dataview}
 

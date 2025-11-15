@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipalegos/embercrag-mountains/","tags":["location"],"created":"2025-10-29T13:24:35.906-07:00","updated":"2025-11-14T14:43:11.820-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipalegos/embercrag-mountains/","tags":["location"],"created":"2025-10-29T13:24:35.906-07:00","updated":"2025-11-14T14:43:16.942-08:00"}
 ---
 
 # # [[campaign/locations/2_regions & archipalegos/Embercrag Mountains\|Embercrag Mountains]]

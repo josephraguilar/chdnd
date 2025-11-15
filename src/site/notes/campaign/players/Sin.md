@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/sin/","tags":["character","player"],"created":"2025-10-29T12:50:43.179-07:00","updated":"2025-11-07T20:36:50.058-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/sin/","tags":["character","player"],"created":"2025-10-29T12:50:43.179-07:00","updated":"2025-11-07T20:36:43.226-08:00"}
 ---
 
 ![sin.jpeg](/img/user/data/img/sin.jpeg)
@@ -10,7 +10,7 @@
 <li dir="auto"><strong>Level:</strong> 8</li>
 <li dir="auto"><strong>Alignment:</strong> Lawful Evil</li>
 <li dir="auto"><strong>Role:</strong> Phistophilus</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/2_regions &amp; archipalegos/Burning Spires.md" data-href="campaign/locations/2_regions &amp; archipalegos/Burning Spires.md" href="campaign/locations/2_regions &amp; archipalegos/Burning Spires.md" class="internal-link" target="_blank" rel="noopener nofollow">Burning Spires</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Burning Spires.md" data-href="campaign/locations/Burning Spires.md" href="campaign/locations/Burning Spires.md" class="internal-link" target="_blank" rel="noopener nofollow">Burning Spires</a></li>
 </ul></span></p>
 
 ---
