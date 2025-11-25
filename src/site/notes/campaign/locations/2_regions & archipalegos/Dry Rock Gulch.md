@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipalegos/dry-rock-gulch/","tags":["location"],"created":"2025-10-29T13:30:13.305-07:00","updated":"2025-11-14T14:43:10.655-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipalegos/dry-rock-gulch/","tags":["location"],"created":"2025-10-29T13:30:13.305-07:00","updated":"2025-11-14T14:43:05.867-08:00"}
 ---
 
 # # [[campaign/locations/2_regions & archipalegos/Dry Rock Gulch\|Dry Rock Gulch]]

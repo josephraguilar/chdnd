@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipalegos/ochre-wastes/","tags":["location"],"created":"2025-10-29T13:24:10.527-07:00","updated":"2025-11-14T14:44:25.631-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipalegos/ochre-wastes/","tags":["location"],"created":"2025-10-29T13:24:10.527-07:00","updated":"2025-11-14T14:44:19.405-08:00"}
 ---
 
 # # [[campaign/locations/2_regions & archipalegos/Ochre Wastes\|Ochre Wastes]]

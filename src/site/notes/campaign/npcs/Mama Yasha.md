@@ -6,7 +6,7 @@
 <p><span><ul>
 <li dir="auto"><strong>Name:</strong> Mama Yasha</li>
 <li dir="auto"><strong>Gender:</strong> female</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Nog Glas Castle.md" data-href="campaign/locations/Nog Glas Castle.md" href="campaign/locations/Nog Glas Castle.md" class="internal-link" target="_blank" rel="noopener nofollow">Nog Glas Castle</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/3_cities &amp; islands/Nog Glas Castle.md" data-href="campaign/locations/3_cities &amp; islands/Nog Glas Castle.md" href="campaign/locations/3_cities &amp; islands/Nog Glas Castle.md" class="internal-link" target="_blank" rel="noopener nofollow">Nog Glas Castle</a></li>
 </ul></span></p>
 
 ---

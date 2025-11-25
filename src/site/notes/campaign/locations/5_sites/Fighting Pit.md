@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/5-sites/fighting-pit/","tags":["location"],"created":"2025-10-28T21:39:25.619-07:00","updated":"2025-11-14T14:43:26.996-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/5-sites/fighting-pit/","tags":["location"],"created":"2025-10-28T21:39:25.619-07:00","updated":"2025-11-14T14:43:22.137-08:00"}
 ---
 
 # # [[campaign/locations/5_sites/Fighting Pit\|Fighting Pit]]

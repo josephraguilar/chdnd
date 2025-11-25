@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipalegos/riverbend/","tags":["location"],"created":"2025-10-29T13:30:20.342-07:00","updated":"2025-11-14T14:44:35.948-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipalegos/riverbend/","tags":["location"],"created":"2025-10-29T13:30:20.342-07:00","updated":"2025-11-14T14:44:31.269-08:00"}
 ---
 
 # # [[campaign/locations/2_regions & archipalegos/Riverbend\|Riverbend]]

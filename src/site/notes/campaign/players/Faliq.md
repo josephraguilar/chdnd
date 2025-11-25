@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/faliq/","tags":["character","player"],"created":"2025-10-28T18:41:36.542-07:00","updated":"2025-11-07T20:34:45.685-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/faliq/","tags":["character","player"],"created":"2025-10-28T18:41:36.542-07:00","updated":"2025-11-07T20:34:57.389-08:00"}
 ---
 
 ![Faliq.png](/img/user/data/img/Faliq.png)
@@ -8,7 +8,7 @@
 <li dir="auto"><strong>Race:</strong> Elf</li>
 <li dir="auto"><strong>Class:</strong> Fighter - Arcane Archer</li>
 <li dir="auto"><strong>Level:</strong> 8</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/GoodWeather Bay.md" data-href="campaign/locations/GoodWeather Bay.md" href="campaign/locations/GoodWeather Bay.md" class="internal-link" target="_blank" rel="noopener nofollow">GoodWeather Bay</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/3_cities &amp; islands/GoodWeather Bay.md" data-href="campaign/locations/3_cities &amp; islands/GoodWeather Bay.md" href="campaign/locations/3_cities &amp; islands/GoodWeather Bay.md" class="internal-link" target="_blank" rel="noopener nofollow">GoodWeather Bay</a></li>
 </ul></span></p>
 
 ---

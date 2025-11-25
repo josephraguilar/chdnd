@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipalegos/di-lantel-range/","tags":["location"],"created":"2025-10-29T13:32:38.565-07:00","updated":"2025-10-29T13:32:58.133-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipalegos/di-lantel-range/","tags":["location"],"created":"2025-10-29T13:32:38.565-07:00","updated":"2025-10-29T13:32:52.150-07:00"}
 ---
 
 # # [[campaign/locations/2_regions & archipalegos/Di'Lantel Range\|Di'Lantel Range]]

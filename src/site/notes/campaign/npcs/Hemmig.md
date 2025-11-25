@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/hemmig/","tags":["character","npc"],"created":"2025-11-07T19:23:09.804-08:00","updated":"2025-11-14T13:52:13.441-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/hemmig/","tags":["character","npc"],"created":"2025-11-07T19:23:09.804-08:00","updated":"2025-11-14T13:52:06.643-08:00"}
 ---
 
 

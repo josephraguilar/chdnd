@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"],"created":"2025-10-28T08:13:58.026-07:00","updated":"2025-11-07T19:32:03.681-08:00"}
+{"dg-publish":true,"permalink":"/world-index/","tags":["gardenEntry"],"created":"2025-10-28T08:13:58.026-07:00","updated":"2025-11-14T18:21:09.822-08:00"}
 ---
 
 # The World of Bydmorathir
@@ -9,8 +9,8 @@
 | ---------------------------------------------------- | ---------------------------------------------------------- | --------- | --------------------- | ------------------------------ | ------------ |
 | <img src="/img/Flynn.jpeg" alt="Flynn.jpeg">         | [[campaign/players/Flynn\|Flynn]]                       | Becca     | Elf                   | Fighter - Echo Knight          | \-           |
 | <img src="/img/Elowyn_ava.png" alt="Elowyn_ava.png"> | [[campaign/players/Elowen\|Elowen]]                     | Becca     | Eladrin               | Wizard                         | \-           |
-| <img src="/img/sin_ava.png" alt="sin_ava.png">       | [[campaign/players/Sin\|Sin]]                           | Joe       | Devil - Phistophilus  | Warlock - The Fiend            | Lawful Evil  |
 | <img src="/img/sim_ava.png" alt="sim_ava.png">       | [[campaign/players/Sim\|Sim]]                           | Joe       | Fairy                 | Cleric - Trickery Domain       | Neutral Good |
+| <img src="/img/sin_ava.png" alt="sin_ava.png">       | [[campaign/players/Sin\|Sin]]                           | Joe       | Devil - Phistophilus  | Warlock - The Fiend            | Lawful Evil  |
 | <img src="/img/dags.jpeg" alt="dags.jpeg">           | [[campaign/players/Dags\|Dags]]                         | Justin    | Mark of Finding Human | Artificer                      | \-           |
 | <img src="/img/adira.jpeg" alt="adira.jpeg">         | [[campaign/players/Adira\|Adira]]                       | Kayla     | Human                 | Barbarian - Path of Wild Magic | \-           |
 | <img src="/img/Faliq_ava.png" alt="Faliq_ava.png">   | [[campaign/players/Faliq\|Faliq]]                       | Maryann   | Elf                   | Fighter - Arcane Archer        | \-           |
@@ -32,10 +32,6 @@ A place where friends come and go, but [[campaign/npcs/Mama Yasha\|Mama Yasha]] 
 
 { .block-language-dataview}
 
-## Custom rules
-
-- [[Character options\|Character options]]
-- [[ttrpgs//House Rules\|House Rules]]
 
 ## Sessions
 
@@ -47,6 +43,7 @@ A place where friends come and go, but [[campaign/npcs/Mama Yasha\|Mama Yasha]] 
 | [[campaign/sessions/004 10-28-2025\|004 10-28-2025]] | Predator            |
 | [[campaign/sessions/005 11-04-2025\|005 11-04-2025]] | Birth of Bloodwind  |
 | [[campaign/sessions/006 11-11-2025\|006 11-11-2025]] | Darkwell Liberators |
+| [[campaign/sessions/007 11-18-2025\|007 11-18-2025]] | Battle for Darkwell |
 
 { .block-language-dataview}
 

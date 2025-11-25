@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/5-sites/whoropoly/","tags":["location"],"created":"2025-11-04T08:42:13.898-08:00","updated":"2025-11-14T14:45:42.593-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/5-sites/whoropoly/","tags":["location"],"created":"2025-11-04T08:42:13.898-08:00","updated":"2025-11-14T14:45:36.368-08:00"}
 ---
 
 # # [[campaign/locations/5_sites/Whoropoly\|Whoropoly]]

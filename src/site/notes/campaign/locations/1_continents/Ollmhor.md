@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/1-continents/ollmhor/","tags":["location"],"created":"2025-10-29T13:21:39.251-07:00","updated":"2025-10-29T13:22:51.419-07:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/1-continents/ollmhor/","tags":["location"],"created":"2025-10-29T13:21:39.251-07:00","updated":"2025-10-29T13:22:42.947-07:00"}
 ---
 
 # # [[campaign/locations/1_continents/Ollmhor\|Ollmhor]]
@@ -21,8 +21,9 @@ Continent on the north-west end of the world.
 ---
 
 ## Relevant People
-| File | Gender | Race | Role | Description |
-| ---- | ------ | ---- | ---- | ----------- |
+| File                              | Gender | Race           | Role | Description |
+| --------------------------------- | ------ | -------------- | ---- | ----------- |
+| [[campaign/npcs/Minka\|Minka]] | female | Minotaur - min | \-   | \-          |
 
 { .block-language-dataview}
 

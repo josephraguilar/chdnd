@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/timeteo/","tags":["character","npc"],"created":"2025-11-07T19:28:44.040-08:00","updated":"2025-11-14T13:52:23.333-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/timeteo/","tags":["character","npc"],"created":"2025-11-07T19:28:44.040-08:00","updated":"2025-11-14T13:52:14.124-08:00"}
 ---
 
 

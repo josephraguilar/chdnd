@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/samson/","tags":["character","npc"],"created":"2025-11-14T13:49:03.643-08:00","updated":"2025-11-14T13:49:56.460-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/samson/","tags":["character","npc"],"created":"2025-11-14T13:49:03.643-08:00","updated":"2025-11-14T13:49:48.619-08:00"}
 ---
 
 

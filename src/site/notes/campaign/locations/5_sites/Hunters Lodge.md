@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/5-sites/hunters-lodge/","tags":["location"],"created":"2025-10-28T20:13:20.175-07:00","updated":"2025-11-14T14:45:47.986-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/5-sites/hunters-lodge/","tags":["location"],"created":"2025-10-28T20:13:20.175-07:00","updated":"2025-11-14T14:45:41.742-08:00"}
 ---
 
 # # [[campaign/locations/5_sites/Hunters Lodge\|Hunters Lodge]]
@@ -19,8 +19,10 @@
 ---
 
 ## Relevant People
-| File | Gender | Race | Role | Description |
-| ---- | ------ | ---- | ---- | ----------- |
+| File                                        | Gender | Race     | Role | Description                      |
+| ------------------------------------------- | ------ | -------- | ---- | -------------------------------- |
+| [[campaign/npcs/Becky\|Becky]]           | female | Tiefling | \-   | sells drugs at the hunters lodge |
+| [[campaign/npcs/Heironimus\|Heironimus]] | male   | Loxodon  | \-   | \-                               |
 
 { .block-language-dataview}
 

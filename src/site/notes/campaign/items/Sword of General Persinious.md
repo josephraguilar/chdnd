@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/sword-of-general-persinious/","created":"2025-11-04T08:44:02.593-08:00","updated":"2025-11-14T14:32:46.224-08:00"}
+{"dg-publish":true,"permalink":"/campaign/items/sword-of-general-persinious/","created":"2025-11-04T08:44:02.593-08:00","updated":"2025-11-14T14:32:40.640-08:00"}
 ---
 
 

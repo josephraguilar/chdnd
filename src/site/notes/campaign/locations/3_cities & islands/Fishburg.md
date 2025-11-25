@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/3-cities-and-islands/fishburg/","tags":["location"],"created":"2025-10-29T13:29:00.799-07:00","updated":"2025-11-14T14:43:57.204-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/3-cities-and-islands/fishburg/","tags":["location"],"created":"2025-10-29T13:29:00.799-07:00","updated":"2025-11-14T14:43:51.174-08:00"}
 ---
 
 # # [[campaign/locations/3_cities & islands/Fishburg\|Fishburg]]

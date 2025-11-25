@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/3-cities-and-islands/darkwell-keep/","tags":["location"],"created":"2025-11-14T13:45:31.961-08:00","updated":"2025-11-14T14:43:55.687-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/3-cities-and-islands/darkwell-keep/","tags":["location"],"created":"2025-11-14T13:45:31.961-08:00","updated":"2025-11-14T14:43:48.363-08:00"}
 ---
 
 # # [[campaign/locations/3_cities & islands/Darkwell Keep\|Darkwell Keep]]
