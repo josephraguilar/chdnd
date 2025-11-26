@@ -44,6 +44,7 @@ A place where friends come and go, but [[campaign/npcs/Mama Yasha\|Mama Yasha]] 
 | [[campaign/sessions/005 11-04-2025\|005 11-04-2025]] | Birth of Bloodwind  |
 | [[campaign/sessions/006 11-11-2025\|006 11-11-2025]] | Darkwell Liberators |
 | [[campaign/sessions/007 11-18-2025\|007 11-18-2025]] | Battle for Darkwell |
+| [[campaign/sessions/008 11-25-2025\|008 11-25-2025]] | Sky Wars            |
 
 { .block-language-dataview}
 
