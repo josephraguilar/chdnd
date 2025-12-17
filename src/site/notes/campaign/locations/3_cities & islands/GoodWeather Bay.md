@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/3-cities-and-islands/good-weather-bay/","tags":["location"],"created":"2025-10-28T20:15:23.126-07:00","updated":"2025-11-14T14:43:53.701-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/3-cities-and-islands/good-weather-bay/","tags":["location"],"created":"2025-10-28T20:15:23.126-07:00","updated":"2025-11-14T14:43:58.681-08:00"}
 ---
 
 # # [[campaign/locations/3_cities & islands/GoodWeather Bay\|GoodWeather Bay]]
@@ -22,11 +22,9 @@
 ---
 
 ## Relevant People
-| File                                        | Gender | Race     | Role | Description                      |
-| ------------------------------------------- | ------ | -------- | ---- | -------------------------------- |
-| [[campaign/npcs/Becky\|Becky]]           | female | Tiefling | \-   | sells drugs at the hunters lodge |
-| [[campaign/npcs/Heironimus\|Heironimus]] | male   | Loxodon  | \-   | \-                               |
-| [[campaign/npcs/Timeteo\|Timeteo]]       | male   | \-       | \-   | \-                               |
+| File                                  | Gender | Race | Role | Description |
+| ------------------------------------- | ------ | ---- | ---- | ----------- |
+| [[campaign/npcs/Timeteo\|Timeteo]] | male   | \-   | \-   | \-          |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipalegos/burning-spires/","tags":["location"],"created":"2025-10-29T12:27:02.886-07:00","updated":"2025-11-04T08:21:53.851-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/2-regions-and-archipalegos/burning-spires/","tags":["location"],"created":"2025-10-29T12:27:02.886-07:00","updated":"2025-11-04T08:21:59.742-08:00"}
 ---
 
 # # [[campaign/locations/2_regions & archipalegos/Burning Spires\|Burning Spires]]
@@ -20,9 +20,8 @@
 ---
 
 ## Relevant People
-| File                                                      | Gender | Race       | Role | Description                                                       |
-| --------------------------------------------------------- | ------ | ---------- | ---- | ----------------------------------------------------------------- |
-| [[campaign/npcs/Isis Shatterscale\|Isis Shatterscale]] | female | Dragonborn | \-   | A Necromancer who likes making undead dragons and hates everyone. |
+| File | Gender | Race | Role | Description |
+| ---- | ------ | ---- | ---- | ----------- |
 
 { .block-language-dataview}
 

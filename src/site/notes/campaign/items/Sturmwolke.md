@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/sturmwolke/","created":"2025-11-25T14:31:13.347-08:00","updated":"2025-11-25T19:14:28.025-08:00"}
+{"dg-publish":true,"permalink":"/campaign/items/sturmwolke/","created":"2025-11-25T14:31:13.347-08:00","updated":"2025-11-25T19:14:20.812-08:00"}
 ---
 
 

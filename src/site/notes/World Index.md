@@ -9,8 +9,8 @@
 | ---------------------------------------------------- | ---------------------------------------------------------- | --------- | --------------------- | ------------------------------ | ------------ |
 | <img src="/img/Flynn.jpeg" alt="Flynn.jpeg">         | [[campaign/players/Flynn\|Flynn]]                       | Becca     | Elf                   | Fighter - Echo Knight          | \-           |
 | <img src="/img/Elowyn_ava.png" alt="Elowyn_ava.png"> | [[campaign/players/Elowen\|Elowen]]                     | Becca     | Eladrin               | Wizard                         | \-           |
-| <img src="/img/sim_ava.png" alt="sim_ava.png">       | [[campaign/players/Sim\|Sim]]                           | Joe       | Fairy                 | Cleric - Trickery Domain       | Neutral Good |
 | <img src="/img/sin_ava.png" alt="sin_ava.png">       | [[campaign/players/Sin\|Sin]]                           | Joe       | Devil - Phistophilus  | Warlock - The Fiend            | Lawful Evil  |
+| <img src="/img/sim_ava.png" alt="sim_ava.png">       | [[campaign/players/Sim\|Sim]]                           | Joe       | Fairy                 | Cleric - Trickery Domain       | Neutral Good |
 | <img src="/img/dags.jpeg" alt="dags.jpeg">           | [[campaign/players/Dags\|Dags]]                         | Justin    | Mark of Finding Human | Artificer                      | \-           |
 | <img src="/img/adira.jpeg" alt="adira.jpeg">         | [[campaign/players/Adira\|Adira]]                       | Kayla     | Human                 | Barbarian - Path of Wild Magic | \-           |
 | <img src="/img/Faliq_ava.png" alt="Faliq_ava.png">   | [[campaign/players/Faliq\|Faliq]]                       | Maryann   | Elf                   | Fighter - Arcane Archer        | \-           |
@@ -45,6 +45,8 @@ A place where friends come and go, but [[campaign/npcs/Mama Yasha\|Mama Yasha]] 
 | [[campaign/sessions/006 11-11-2025\|006 11-11-2025]] | Darkwell Liberators |
 | [[campaign/sessions/007 11-18-2025\|007 11-18-2025]] | Battle for Darkwell |
 | [[campaign/sessions/008 11-25-2025\|008 11-25-2025]] | Sky Wars            |
+| [[campaign/sessions/009 12-09-2025\|009 12-09-2025]] | \-                  |
+| [[campaign/sessions/010 12-16-2025\|010 12-16-2025]] | \-                  |
 
 { .block-language-dataview}
 

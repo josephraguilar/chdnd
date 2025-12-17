@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/shem-mc-gillicuddy/","tags":["character","npc"],"created":"2025-10-28T21:37:35.915-07:00","updated":"2025-11-04T20:12:46.378-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/shem-mc-gillicuddy/","tags":["character","npc"],"created":"2025-10-28T21:37:35.915-07:00","updated":"2025-11-04T20:12:35.310-08:00"}
 ---
 
 

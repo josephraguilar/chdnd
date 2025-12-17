@@ -8,7 +8,7 @@
 <li dir="auto"><strong>Race:</strong> Elf</li>
 <li dir="auto"><strong>Class:</strong> Fighter - Arcane Archer</li>
 <li dir="auto"><strong>Level:</strong> 8</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/3_cities &amp; islands/GoodWeather Bay.md" data-href="campaign/locations/3_cities &amp; islands/GoodWeather Bay.md" href="campaign/locations/3_cities &amp; islands/GoodWeather Bay.md" class="internal-link" target="_blank" rel="noopener nofollow">GoodWeather Bay</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/GoodWeather Bay.md" data-href="campaign/locations/GoodWeather Bay.md" href="campaign/locations/GoodWeather Bay.md" class="internal-link" target="_blank" rel="noopener nofollow">GoodWeather Bay</a></li>
 </ul></span></p>
 
 ---

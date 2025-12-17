@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/5-sites/dansk-and-sons-shipwrights/","tags":["location"],"created":"2025-10-29T13:15:31.404-07:00","updated":"2025-11-14T14:45:45.518-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/5-sites/dansk-and-sons-shipwrights/","tags":["location"],"created":"2025-10-29T13:15:31.404-07:00","updated":"2025-11-14T14:45:52.739-08:00"}
 ---
 
 # # [[campaign/locations/5_sites/Dansk & Sons Shipwrights\|Dansk & Sons Shipwrights]]

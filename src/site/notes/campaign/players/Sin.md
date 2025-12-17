@@ -10,7 +10,7 @@
 <li dir="auto"><strong>Level:</strong> 8</li>
 <li dir="auto"><strong>Alignment:</strong> Lawful Evil</li>
 <li dir="auto"><strong>Role:</strong> Phistophilus</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/2_regions &amp; archipalegos/Burning Spires.md" data-href="campaign/locations/2_regions &amp; archipalegos/Burning Spires.md" href="campaign/locations/2_regions &amp; archipalegos/Burning Spires.md" class="internal-link" target="_blank" rel="noopener nofollow">Burning Spires</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Burning Spires.md" data-href="campaign/locations/Burning Spires.md" href="campaign/locations/Burning Spires.md" class="internal-link" target="_blank" rel="noopener nofollow">Burning Spires</a></li>
 </ul></span></p>
 
 ---

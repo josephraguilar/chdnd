@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/heironimus-jebadiah-maurice-von-ipswitch-lasertilla-iv/","tags":["character","npc"],"created":"2025-11-25T14:33:52.807-08:00","updated":"2025-11-25T14:34:06.773-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/heironimus-jebadiah-maurice-von-ipswitch-lasertilla-iv/","tags":["character","npc"],"created":"2025-11-25T14:33:52.807-08:00","updated":"2025-11-25T14:34:14.935-08:00"}
 ---
 
 

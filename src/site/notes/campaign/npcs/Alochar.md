@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/alochar/","tags":["character","npc"],"created":"2025-11-07T19:24:53.562-08:00","updated":"2025-11-14T13:51:57.599-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/alochar/","tags":["character","npc"],"created":"2025-11-07T19:24:53.562-08:00","updated":"2025-11-14T13:52:03.052-08:00"}
 ---
 
 

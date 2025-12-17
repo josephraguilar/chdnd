@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/3-cities-and-islands/south-marlan-keep/","tags":["location"],"created":"2025-10-29T13:21:11.486-07:00","updated":"2025-11-14T14:45:14.249-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/3-cities-and-islands/south-marlan-keep/","tags":["location"],"created":"2025-10-29T13:21:11.486-07:00","updated":"2025-11-14T14:45:22.413-08:00"}
 ---
 
 # # [[campaign/locations/3_cities & islands/South Marlan Keep\|South Marlan Keep]]

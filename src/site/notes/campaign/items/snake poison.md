@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/snake-poison/","created":"2025-11-04T19:37:35.018-08:00","updated":"2025-11-14T14:32:38.631-08:00"}
+{"dg-publish":true,"permalink":"/campaign/items/snake-poison/","created":"2025-11-04T19:37:35.018-08:00","updated":"2025-11-14T14:32:44.407-08:00"}
 ---
 
 

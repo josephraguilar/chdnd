@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/monsters/dillgoat/","created":"2025-11-04T08:39:06.849-08:00","updated":"2025-11-04T18:24:35.523-08:00"}
+{"dg-publish":true,"permalink":"/campaign/monsters/dillgoat/","created":"2025-11-04T08:39:06.849-08:00","updated":"2025-11-04T18:24:26.063-08:00"}
 ---
 
 # [[campaign/monsters/Dillgoat\|Dillgoat]]

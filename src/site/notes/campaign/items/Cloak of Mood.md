@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/items/cloak-of-mood/","created":"2025-11-18T20:14:16.586-08:00","updated":"2025-11-25T18:33:41.940-08:00"}
+{"dg-publish":true,"permalink":"/campaign/items/cloak-of-mood/","created":"2025-11-18T20:14:16.586-08:00","updated":"2025-11-25T18:33:35.693-08:00"}
 ---
 
 
