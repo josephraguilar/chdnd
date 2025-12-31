@@ -26,8 +26,8 @@ Continent on the south east side of [[campaign/locations/0_worlds/Bydmorathir\|B
 | [[campaign/locations/2_regions & archipalegos/Riverbend\|Riverbend]]                   | 2_region/archipelago |
 | [[campaign/locations/2_regions & archipalegos/Rocky Point\|Rocky Point]]               | 2_region/archipelago |
 | [[campaign/locations/2_regions & archipalegos/Symud Desert\|Symud Desert]]             | 2_region/archipelago |
-| [[campaign/locations/3_cities & islands/Nog Glas Castle\|Nog Glas Castle]]             | 3_city/island        |
 | [[campaign/locations/3_cities & islands/GoodWeather Bay\|GoodWeather Bay]]             | 3_city/island        |
+| [[campaign/locations/3_cities & islands/Nog Glas Castle\|Nog Glas Castle]]             | 3_city/island        |
 | [[campaign/locations/3_cities & islands/South Marlan Keep\|South Marlan Keep]]         | 3_city/island        |
 | [[campaign/locations/3_cities & islands/Fishburg\|Fishburg]]                           | 3_city/island        |
 | [[campaign/locations/5_sites/Centurion Gates\|Centurion Gates]]                        | 5_site               |

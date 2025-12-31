@@ -15,8 +15,8 @@
 | Location                                                | Type        |
 | ------------------------------------------------------- | ----------- |
 | [[campaign/locations/1_continents/Talamh\|Talamh]]   | 1_continent |
-| [[campaign/locations/1_continents/Cartref\|Cartref]] | 1_continent |
 | [[campaign/locations/1_continents/Ollmhor\|Ollmhor]] | 1_continent |
+| [[campaign/locations/1_continents/Cartref\|Cartref]] | 1_continent |
 
 { .block-language-dataview}
 
