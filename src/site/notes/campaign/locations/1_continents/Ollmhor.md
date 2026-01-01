@@ -13,8 +13,9 @@ Continent on the north-west end of the world.
 ---
 
 ### Contains
-| Location | Type |
-| -------- | ---- |
+| Location                                     | Type |
+| -------------------------------------------- | ---- |
+| [[campaign/locations/Shan'dar\|Shan'dar]] | \-   |
 
 { .block-language-dataview}
 

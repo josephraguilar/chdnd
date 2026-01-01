@@ -14,17 +14,19 @@
 ### Contains
 | Location                                                                             | Type   |
 | ------------------------------------------------------------------------------------ | ------ |
-| [[campaign/locations/5_sites/Dansk & Sons Shipwrights\|Dansk & Sons Shipwrights]] | 5_site |
 | [[campaign/locations/5_sites/Whoropoly\|Whoropoly]]                               | 5_site |
+| [[campaign/locations/5_sites/Dansk & Sons Shipwrights\|Dansk & Sons Shipwrights]] | 5_site |
 
 { .block-language-dataview}
 
 ---
 
 ## Relevant People
-| File                                  | Gender | Race | Role | Description |
-| ------------------------------------- | ------ | ---- | ---- | ----------- |
-| [[campaign/npcs/Timeteo\|Timeteo]] | male   | \-   | \-   | \-          |
+| File                                        | Gender | Race     | Role | Description                      |
+| ------------------------------------------- | ------ | -------- | ---- | -------------------------------- |
+| [[campaign/npcs/Becky\|Becky]]           | female | Tiefling | \-   | sells drugs at the hunters lodge |
+| [[campaign/npcs/Heironimus\|Heironimus]] | male   | Loxodon  | \-   | \-                               |
+| [[campaign/npcs/Timeteo\|Timeteo]]       | male   | \-       | \-   | \-                               |
 
 { .block-language-dataview}
 

@@ -7,8 +7,8 @@
 <li dir="auto"><strong>Name:</strong> Glasya</li>
 <li dir="auto"><strong>Gender:</strong> female</li>
 <li dir="auto"><strong>Race:</strong> Devil</li>
-<li dir="auto"><strong>Hails From:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Nine Hells.md" data-href="campaign/locations/Nine Hells.md" href="campaign/locations/Nine Hells.md" class="internal-link" target="_blank" rel="noopener nofollow">Nine Hells</a></li>
-<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Malbolge.md" data-href="campaign/locations/Malbolge.md" href="campaign/locations/Malbolge.md" class="internal-link" target="_blank" rel="noopener nofollow">Malbolge</a></li>
+<li dir="auto"><strong>Hails From:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/0_worlds/Nine Hells.md" data-href="campaign/locations/0_worlds/Nine Hells.md" href="campaign/locations/0_worlds/Nine Hells.md" class="internal-link" target="_blank" rel="noopener nofollow">Nine Hells</a></li>
+<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/1_continents/Malbolge.md" data-href="campaign/locations/1_continents/Malbolge.md" href="campaign/locations/1_continents/Malbolge.md" class="internal-link" target="_blank" rel="noopener nofollow">Malbolge</a></li>
 </ul></span></p>
 
 ---

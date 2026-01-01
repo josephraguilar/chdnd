@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/locations/3-cities-and-islands/gorllewyn/","tags":["location"],"created":"2025-12-30T18:42:47.428-08:00","updated":"2025-12-30T18:43:01.866-08:00"}
+{"dg-publish":true,"permalink":"/campaign/locations/3-cities-and-islands/gorllewyn/","tags":["location"],"created":"2025-12-30T18:42:47.428-08:00","updated":"2025-12-30T18:43:03.622-08:00"}
 ---
 
 # # [[campaign/locations/3_cities & islands/Gorllewyn\|Gorllewyn]]

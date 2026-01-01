@@ -10,8 +10,8 @@ A necromancer the party met in the Burning spires
 <li dir="auto"><strong>Race:</strong> Dragonborn</li>
 <li dir="auto"><strong>Class:</strong> Wizard - School of Necromancy</li>
 <li dir="auto"><strong>Alignment:</strong> Chaotic Evil</li>
-<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Burning Spires.md" data-href="campaign/locations/Burning Spires.md" href="campaign/locations/Burning Spires.md" class="internal-link" target="_blank" rel="noopener nofollow">Burning Spires</a></li>
-<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/Burning Spires.md" data-href="campaign/locations/Burning Spires.md" href="campaign/locations/Burning Spires.md" class="internal-link" target="_blank" rel="noopener nofollow">Burning Spires</a></li>
+<li dir="auto"><strong>First Appearance:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/2_regions &amp; archipalegos/Burning Spires.md" data-href="campaign/locations/2_regions &amp; archipalegos/Burning Spires.md" href="campaign/locations/2_regions &amp; archipalegos/Burning Spires.md" class="internal-link" target="_blank" rel="noopener nofollow">Burning Spires</a></li>
+<li dir="auto"><strong>Current Location:</strong> <a data-tooltip-position="top" aria-label="campaign/locations/2_regions &amp; archipalegos/Burning Spires.md" data-href="campaign/locations/2_regions &amp; archipalegos/Burning Spires.md" href="campaign/locations/2_regions &amp; archipalegos/Burning Spires.md" class="internal-link" target="_blank" rel="noopener nofollow">Burning Spires</a></li>
 <li dir="auto"><strong>Description:</strong> A Necromancer who likes making undead dragons and hates everyone.</li>
 </ul></span></p>
 ---

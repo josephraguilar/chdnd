@@ -20,8 +20,9 @@
 ---
 
 ## Relevant People
-| File | Gender | Race | Role | Description |
-| ---- | ------ | ---- | ---- | ----------- |
+| File                                        | Gender | Race | Role | Description |
+| ------------------------------------------- | ------ | ---- | ---- | ----------- |
+| [[campaign/npcs/Mama Yasha\|Mama Yasha]] | female | \-   | \-   | \-          |
 
 { .block-language-dataview}
 

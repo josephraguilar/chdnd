@@ -21,9 +21,10 @@ The sixth layer of the nine hells, ran by [[campaign/npcs/Glasya\|Glasya]].
 ---
 
 ## Relevant People
-| File                                  | Gender | Race | Role | Description |
-| ------------------------------------- | ------ | ---- | ---- | ----------- |
-| [[campaign/npcs/Alochar\|Alochar]] | \-     | \-   | \-   | \-          |
+| File                                  | Gender | Race  | Role | Description |
+| ------------------------------------- | ------ | ----- | ---- | ----------- |
+| [[campaign/npcs/Alochar\|Alochar]] | \-     | \-    | \-   | \-          |
+| [[campaign/npcs/Glasya\|Glasya]]   | female | Devil | \-   | \-          |
 
 { .block-language-dataview}
 

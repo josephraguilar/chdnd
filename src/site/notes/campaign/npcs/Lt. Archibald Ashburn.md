@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/lt-archibald-ashburn/","tags":["character","npc"],"created":"2025-11-18T19:28:48.915-08:00","updated":"2025-11-18T19:34:58.477-08:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/lt-archibald-ashburn/","tags":["character","npc"],"created":"2025-11-18T19:28:48.915-08:00","updated":"2025-11-18T19:35:07.981-08:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/npcs/shen/","tags":["character","npc"],"created":"2025-10-28T21:55:08.313-07:00","updated":"2025-10-28T22:52:24.734-07:00"}
+{"dg-publish":true,"permalink":"/campaign/npcs/shen/","tags":["character","npc"],"created":"2025-10-28T21:55:08.313-07:00","updated":"2025-10-28T22:52:35.200-07:00"}
 ---
 
 

@@ -19,8 +19,10 @@
 ---
 
 ## Relevant People
-| File | Gender | Race | Role | Description |
-| ---- | ------ | ---- | ---- | ----------- |
+| File                                        | Gender | Race     | Role | Description                      |
+| ------------------------------------------- | ------ | -------- | ---- | -------------------------------- |
+| [[campaign/npcs/Becky\|Becky]]           | female | Tiefling | \-   | sells drugs at the hunters lodge |
+| [[campaign/npcs/Heironimus\|Heironimus]] | male   | Loxodon  | \-   | \-                               |
 
 { .block-language-dataview}
 

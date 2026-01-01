@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/campaign/players/adira/","tags":["character","player"],"created":"2025-10-28T15:58:38.966-07:00","updated":"2025-12-16T21:06:11.804-08:00"}
+{"dg-publish":true,"permalink":"/campaign/players/adira/","tags":["character","player"],"created":"2025-10-28T15:58:38.966-07:00","updated":"2025-12-16T21:06:17.392-08:00"}
 ---
 
 ![adira.jpeg](/img/user/data/img/adira.jpeg)

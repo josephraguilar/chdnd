@@ -20,8 +20,9 @@
 ---
 
 ## Relevant People
-| File | Gender | Race | Role | Description |
-| ---- | ------ | ---- | ---- | ----------- |
+| File                                                      | Gender | Race       | Role | Description                                                       |
+| --------------------------------------------------------- | ------ | ---------- | ---- | ----------------------------------------------------------------- |
+| [[campaign/npcs/Isis Shatterscale\|Isis Shatterscale]] | female | Dragonborn | \-   | A Necromancer who likes making undead dragons and hates everyone. |
 
 { .block-language-dataview}
 
